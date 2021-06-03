@@ -2686,5 +2686,23 @@
         ],
         "faucets": [],
         "infoURL": "https://hpb.io"
+    },
+    {
+        "name": "Catecoin Chain Mainnet",
+        "chainId": 1618,
+        "shortName": "cate",
+        "chain": "Catechain",
+        "network": "mainnet",
+        "networkId": 1618,
+        "nativeCurrency": {
+            "name": "Catecoin",
+            "symbol": "CATE",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://send.catechain.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://catechain.com"
     }
 ]
