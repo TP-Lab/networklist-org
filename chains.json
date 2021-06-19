@@ -2741,5 +2741,25 @@
         ],
         "faucets": [],
         "infoURL": "https://kcc.io"
+    },
+    {
+    "name": "KSC Mainnet",
+    "chainId": 58548,
+    "shortName": "ksc",
+    "chain": "KSC",
+    "network": "mainnet",
+    "networkId": 58548,
+    "nativeCurrency": {
+        "name": "KSC",
+        "symbol": "KSC",
+        "decimals": 18
+    },
+    "rpc": [
+        "http://122.51.252.52:58548",
+    ],
+    "faucets": [],
+    "infoURL": "http://eto333.xyz"
     }
+}
+
 ]
