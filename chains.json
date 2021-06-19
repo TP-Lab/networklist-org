@@ -2753,12 +2753,12 @@
         "name": "KSC",
         "symbol": "KSC",
         "decimals": 18
-    },
+        },
     "rpc": [
         "http://122.51.252.52:58548",
     ],
     "faucets": [],
     "infoURL": "http://eto333.xyz"
-}
+    }
 
 ]
