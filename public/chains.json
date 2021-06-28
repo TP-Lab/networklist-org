@@ -216,6 +216,25 @@
         }
     },
     {
+        "name": "Hoo Smart Chain Mainnet",
+        "chain": "HSC",
+        "network": "mainnet",
+        "rpc": [
+            "https://http-mainnet.hoosmartchain.com"
+        ],
+        "faucets": [
+        ],
+        "nativeCurrency": {
+            "name": "HOO",
+            "symbol": "HOO",
+            "decimals": 18
+        },
+        "infoURL": "https://www.hoosmartchain.com",
+        "shortName": "HSC Mainnet",
+        "chainId": 70,
+        "networkId": 70
+    },
+    {
         "name": "Hoo Smart Chain Testnet",
         "chain": "HSC",
         "network": "testnet",
@@ -231,7 +250,7 @@
             "decimals": 18
         },
         "infoURL": "https://www.hoosmartchain.com",
-        "shortName": "HSC",
+        "shortName": "HSC Testnet",
         "chainId": 170,
         "networkId": 170
     },
