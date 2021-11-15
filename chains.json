@@ -210,6 +210,25 @@
         }
     },
     {
+        "name": "Cronos Mainnet",
+        "chainId": 25,
+        "shortName": "CRO",
+        "chain": "CRO",
+        "network": "mainnet",
+        "networkId": 25,
+        "nativeCurrency": {
+            "name": "CRO",
+            "symbol": "CRO",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://cronos-rpc.elk.finance",
+            "https://cronosrpc-1.xstaking.sg"
+        ],
+        "faucets": [],
+        "infoURL": "https://cronos.crypto.org/explorer"
+    },
+    {
         "name": "Fusion Mainnet",
         "chainId": 32659,
         "shortName": "fsn",
