@@ -2807,5 +2807,31 @@
             "ic_chain_unselect": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1632371627579.png",
             "color_chain_bg": "0xB1232C"
         }
+    },
+    {
+        "name": "smartBCH Mainnet",
+        "chainId": 10000,
+        "shortName": "smartBCH",
+        "chain": "smartBCH",
+        "network": "mainnet",
+        "networkId": 10000,
+        "nativeCurrency": {
+            "name": "Bitcoin Cash",
+            "symbol": "BCH",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://smartbch.greyh.at",
+            "https://rpc-mainnet.smartbch.org",
+            "https://smartbch.fountainhead.cash/mainnet",
+            "https://smartbch.devops.cash/mainnet"
+        ],
+        "faucets": [],
+        "infoURL": "https://smartbch.org/",
+        "app_resource": {
+            "ic_chain_select": "https://assets.smartbch.org/img/bch_active_88px.png",
+            "ic_chain_unselect": "https://assets.smartbch.org/img/bch_inactive_88px.png",
+            "color_chain_bg": "0x4cc947"
+        }
     }
 ]
