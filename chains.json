@@ -73,6 +73,33 @@
         }
     },
     {
+        "name": "BTA Chain",
+        "chainId": 1657,
+        "shortName": "btachain",
+        "chain": "BTA",
+        "network": "mainnet",
+        "networkId": 1657,
+        "nativeCurrency": {
+            "name": "btachain",
+            "symbol": "BTA",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://dataseed1.btachain.com",
+            "https://dataseed2.btachain.com",
+            "wss://dataseed1.btachain.com/wss",
+            "wss://dataseed2.btachain.com/wss",
+            "ws://dataseed1.btachain.com:8861"
+        ],
+        "faucets": [],
+        "infoURL": "https://btachain.com",
+        "app_resource": {
+            "ic_chain_select": "https://btachain.com/images/favicon/logo.png",
+            "ic_chain_unselect": "https://btachain.com/images/favicon/logo-0x.png",
+            "color_chain_bg": "0x0777cf"
+        }
+    },
+    {
         "name": "Arbitrum One",
         "chainId": 42161,
         "shortName": "Arbitrum",
