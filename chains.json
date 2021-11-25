@@ -2860,5 +2860,30 @@
             "ic_chain_unselect": "https://assets.smartbch.org/img/bch_inactive_88px.png",
             "color_chain_bg": "0x4cc947"
         }
+    },
+    {
+        "name": "MetaChain",
+        "chainId": 17,
+        "shortName": "MetaChain",
+        "chain": "MetaChain",
+        "network": "mainnet",
+        "networkId": 17,
+        "nativeCurrency": {
+            "name": "META",
+            "symbol": "META",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.metachain.asia",
+        ],
+        "faucets": [
+            "https://faucet.metachain.asia",
+        ],
+        "infoURL": "https://web.metaversethailand.io/",
+        "app_resource": {
+            "ic_chain_select": "https://i.ibb.co/gtQppkF/Meta-Chain-Tokenpocket-Selected.png",
+            "ic_chain_unselect": "https://i.ibb.co/RSx4KSc/Meta-Chain-Tokenpocket-Unselected.png",
+            "color_chain_bg": "0x212f44"
+        }
     }
 ]
