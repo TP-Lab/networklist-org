@@ -665,7 +665,7 @@
     ],
     "infoURL": "https://web3games.org/",
     "app_resource": {
-      "ic_chain_select": "https://web3games-public.oss-ap-northeast-1.aliyuncs.com/web3games-token-pocket-02.png",
+      "ic_chain_select": "https://files.slack.com/files-pri/T01UH44D256-F02PMGE8FTK/web3game-logo-final-01.png",
       "ic_chain_unselect": "https://web3games-public.oss-ap-northeast-1.aliyuncs.com/web3games-token-pocket-01.png",
       "color_chain_bg": "0x2A31FB"
     }
