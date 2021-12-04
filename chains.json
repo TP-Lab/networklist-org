@@ -3142,5 +3142,30 @@
       "ic_chain_unselect": "https://assets.smartbch.org/img/bch_inactive_88px.png",
       "color_chain_bg": "0x4cc947"
     }
-  }
+  },
+  {
+    "name": "World Trade Technical Chain Mainnet",
+    "chainId": 1202,
+    "shortName": "wtt",
+    "chain": "WTT",
+    "network": "mainnet",
+    "networkId": 2048,
+    "nativeCurrency": {
+        "name": "World Trade Token",
+        "symbol": "WTT",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://rpc.cadaut.com",
+        "wss://rpc.cadaut.com/ws"
+    ],
+    "faucets": [],
+    "infoURL": "http://www.cadaut.com",
+    "app_resource": {
+        "ic_chain_select": "https://github.com/kow101/kow101/blob/main/WTTlogo.png",
+        "ic_chain_unselect": "https://github.com/kow101/kow101/blob/main/WTTlogo-grey.png",
+        "color_chain_bg": "0x2C3E4A"
+    }
+}
+
 ]
