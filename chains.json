@@ -3142,5 +3142,28 @@
       "ic_chain_unselect": "https://assets.smartbch.org/img/bch_inactive_88px.png",
       "color_chain_bg": "0x4cc947"
     }
+  },
+  {
+    "name": "FAX Chain",
+    "chainId": 778777,
+    "shortName": "FAX",
+    "chain": "FAX",
+    "network": "mainnet",
+    "networkId": 778777,
+    "nativeCurrency": {
+        "name": "FaxChain",
+        "symbol": "FAX",
+        "decimals": 18
+    },
+    "rpc": [
+        "http://api.filewallet.pro",
+    ],
+    "faucets": [],
+    "infoURL": "",
+    "app_resource": {
+        "ic_chain_select": "https://faxchain.oss-cn-beijing.aliyuncs.com/FAX/0.png",
+        "ic_chain_unselect": "https://faxchain.oss-cn-beijing.aliyuncs.com/FAX/1.png",
+        "color_chain_bg": "0xa656c5"
+    }
   }
 ]
