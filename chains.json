@@ -3144,7 +3144,7 @@
     }
   },
   {
-    "name": "FAX Chain",
+    "name": "FaxChain",
     "chainId": 778777,
     "shortName": "FAX",
     "chain": "FAX",
