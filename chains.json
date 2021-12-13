@@ -3142,5 +3142,30 @@
       "ic_chain_unselect": "https://assets.smartbch.org/img/bch_inactive_88px.png",
       "color_chain_bg": "0x4cc947"
     }
+  },
+  {
+    "name": "Dolaimi Chain",
+    "chainId": 515623,
+    "shortName": "DLMU",
+    "chain": "DLMU",
+    "network": "mainnet",
+    "networkId": 51562300000,
+    "nativeCurrency": {
+      "name": "Dolaimi Chain",
+      "symbol": "DLMU",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://block.dolaimi.org"
+    ],
+    "faucets": [
+    ],
+    "infoURL": "https://scan.dolaimi.org",
+    "app_resource": {
+      "ic_chain_select": "https://dolaimi.oss-us-west-1.aliyuncs.com/common/DLMU_.png",
+      "ic_chain_unselect": "https://dolaimi.oss-us-west-1.aliyuncs.com/common/DLMU.png",
+      "color_chain_bg": "0x0878fd"
+    }
   }
+
 ]
