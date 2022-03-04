@@ -31,7 +31,14 @@ Example:
     "app_resource": {
         "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/1.png",
         "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/0.png",
-        "color_chain_bg": "0x58B2AF"
+        "color_chain_bg": "0x58B2AF",
+        "namaspace": "ethereum",
+        "txUrl":" https://xxxchaintxserver.xxx.xxx", 
+        "browserInfo": {
+            "name": "XDAI", 
+            "icon": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/1.png", 
+            "addr": ["https://xxx1scan.io/", "https://xxx2can.io/"]
+        }
     }
 }
 ```
