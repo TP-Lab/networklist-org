@@ -3031,5 +3031,29 @@
         "icon": "evmos"
       }
     ]
+  },
+  {
+    "name": "Hsocoin Mainnet",
+    "chainId": 89,
+    "shortName": "hso",
+    "chain": "HSO",
+    "network": "HSO",
+    "networkId": 1,
+    "nativeCurrency": {
+      "name": "HSO",
+      "symbol": "HSO",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://mainnet.hsocoin.net",
+      "wss://mainnet.hsocoin.net/wss"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.hsocoin.net",
+    "app_resource": {
+      "ic_chain_select": "https://www.hsocoin.net/3.png",
+      "ic_chain_unselect": "https://www.hsocoin.net/4.png",
+      "color_chain_bg": "0x6f42c1"
+    }
   }
 ]
