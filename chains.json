@@ -7608,5 +7608,29 @@
     "shortName": "mole",
     "chainId": 6022140761023,
     "networkId": 6022140761023
-  }
+  },
+  {
+    "name": "BET NetWork",
+    "chainId": 5918,
+    "shortName": "BET",
+    "chain": "BET",
+    "network": "mainnet",
+    "networkId": 5918,
+    "nativeCurrency": {
+        "name": "BET",
+        "symbol": "BET",
+        "decimals": 18
+    },
+    "rpc": [
+        "http://us.scgs.cc",
+        "ws://us.scgs.cc:8546"
+    ],
+    "faucets": [],
+    "infoURL": "https://scgs.cc",
+    "app_resource": {
+        "ic_chain_select": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-c0766697-6186-4fde-98fa-d5d0af21295c/f75df9be-348d-4604-bd98-246ad139b5b3.png",
+        "ic_chain_unselect": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-c0766697-6186-4fde-98fa-d5d0af21295c/bb75e44b-2216-4b14-8f64-29e0c49f64c5.png",
+        "color_chain_bg": "0xFFA042"
+    }
+}
 ]
