@@ -7622,6 +7622,7 @@
         "decimals": 18
     },
     "rpc": [
+        "https://kr.scgs.cc",
         "http://us.scgs.cc",
         "ws://us.scgs.cc:8546"
     ],
