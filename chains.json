@@ -7680,7 +7680,8 @@
     "app_resource": {
         "ic_chain_select": "http://icon.bnbstars.org/icon/BNBStars_H.png",
         "ic_chain_unselect": "http://icon.bnbstars.org/icon/BNBStars_U.png",
-        "color_chain_bg": "0x8250df"
+        "color_chain_bg": "0x8250df",
+        "txUrl":"http://txUrl.bnbstars.org"
     },
     "explorers": [
       {
@@ -7689,5 +7690,5 @@
         "standard": "EIP3091"
       }
     ]
-}
+  }
 ]
