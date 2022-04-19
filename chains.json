@@ -7681,5 +7681,28 @@
         "standard": "EIP3091"
       }
     ]
+  },
+  {
+    "name": "Piece Testnet",
+    "chainId": 15555,
+    "shortName": "Piece testnet",
+    "chain": "Piece testnet",
+    "network": "testnet",
+    "networkId": 30067,
+    "nativeCurrency": {
+      "name": "ECE",
+      "symbol": "ECE",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://testnet-rpc0.piecenetwork.com"
+    ],
+    "explorers": [
+      {
+        "name": "Piece Explorer",
+        "url": "https://testnet-scan.piecenetwork.com",
+        "standard": "EIP3091"
+      }
+    ]
   }
 ]
