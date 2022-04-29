@@ -249,8 +249,11 @@
       "decimals": 18
     },
     "rpc": [
-      "https://cronos-rpc.elk.finance",
-      "https://cronosrpc-1.xstaking.sg"
+      "https://evm.cronos.org",
+      "https://cronosrpc-1.xstaking.sg",
+      "https://evm-cronos.crypto.org",
+      "https://cronos-rpc.heavenswail.one",
+      "https://cronos-rpc.elk.finance"
     ],
     "faucets": [],
     "infoURL": "https://cronos.crypto.org/explorer"
@@ -7660,34 +7663,51 @@
     "infoURL": "https://confluxnetwork.org/"
   },
   {
-    "name": "BEC Mainnet",
-    "chainId": 12366,
-    "shortName": "bec",
-    "chain": "BEC",
-    "network": "mainnet",
-    "networkId": 12366,
+    "name": "Trust Network Testnet Preview",
+    "chainId": 15555,
+    "shortName": "Trust testnet",
+    "chain": "Trust testnet",
+    "network": "testnet",
+    "networkId": 15555,
     "nativeCurrency": {
-        "name": "BEC",
-        "symbol": "BEC",
-        "decimals": 18
+      "name": "EVM",
+      "symbol": "EVM",
+      "decimals": 18
     },
     "rpc": [
-        "http://rpc.bnbstars.org",
-        "ws://ws.bnbstars.org"
+      "https://api.testnet-dev.trust.one"
     ],
-    "app_resource": {
-        "ic_chain_select": "http://icon.bnbstars.org/icon/BNBStars_H.png",
-        "ic_chain_unselect": "http://icon.bnbstars.org/icon/BNBStars_U.png",
-        "color_chain_bg": "0x8250df"
-    },
     "explorers": [
       {
-        "name": "BEC Scan (Blockscout)",
-        "url": "http://explore.bnbstars.org",
+        "name": "TRUST Explorer",
+        "url": "https://trustscan.one",
         "standard": "EIP3091"
       }
+    ]
+  },
+  {
+    "name": "MetaChain",
+    "chainId": 20028,
+    "shortName": "MTC",
+    "chain": "MetaChain",
+    "network": "mainnet",
+    "networkId": 20028,
+    "nativeCurrency": {
+      "name": "MTC",
+      "symbol": "MTC",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://seed1.metachain1.com",
+      "https://seed2.metachain1.com",
+      "https://seed3.metachain1.com"
     ],
     "faucets": [],
-    "infoURL": "https://bnbstars.org/"
+    "infoURL": "http://www.metachain1.com/",
+    "app_resource": {
+      "ic_chain_select": "https://block.metachain1.com/tokenmetas/meta1.png",
+      "ic_chain_unselect": "https://block.metachain1.com/tokenmetas/meta0.png",
+      "color_chain_bg": "0xf3d275"
+    }
   }
 ]
