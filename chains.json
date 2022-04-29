@@ -7686,6 +7686,37 @@
     ]
   },
   {
+    "name": "BEC Mainnet",
+    "chainId": 12366,
+    "shortName": "bec",
+    "chain": "BEC",
+    "network": "mainnet",
+    "networkId": 12366,
+    "nativeCurrency": {
+        "name": "BEC",
+        "symbol": "BEC",
+        "decimals": 18
+    },
+    "rpc": [
+        "http://rpc.bnbstars.org",
+        "ws://ws.bnbstars.org"
+    ],
+    "app_resource": {
+        "ic_chain_select": "http://icon.bnbstars.org/icon/BNBStars_H.png",
+        "ic_chain_unselect": "http://icon.bnbstars.org/icon/BNBStars_U.png",
+        "color_chain_bg": "0x8250df"
+    },
+    "explorers": [
+      {
+        "name": "BEC Scan (Blockscout)",
+        "url": "http://explore.bnbstars.org",
+        "standard": "EIP3091"
+      }
+    ],
+    "faucets": [],
+    "infoURL": "https://bnbstars.org/"
+  },
+  {
     "name": "MetaChain",
     "chainId": 20028,
     "shortName": "MTC",
