@@ -7709,5 +7709,28 @@
       "ic_chain_unselect": "https://block.metachain1.com/tokenmetas/meta0.png",
       "color_chain_bg": "0xf3d275"
     }
+  },
+  {
+    "name": "Secret Chain",
+    "chainId": 211,
+    "shortName": "sert",
+    "chain": "SERT",
+    "network": "mainnet",
+    "networkId": 211,
+    "nativeCurrency": {
+        "name": "GAS",
+        "symbol": "GAS",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://api.secret.dev"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.secret.dev/",
+    "app_resource": {
+        "ic_chain_select": "https://secretfileapp.blob.core.windows.net/gyf/Secret.png",
+        "ic_chain_unselect": "https://secretfileapp.blob.core.windows.net/gyf/Secret2.png",
+        "color_chain_bg": "#239CFA"
+    }
   }
 ]
