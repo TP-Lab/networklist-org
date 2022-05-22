@@ -143,6 +143,30 @@
     }
   },
   {
+    "name": "PHI Network",
+    "chainId": 4181,
+    "shortName": "Φ",
+    "chain": "PHI",
+    "network": "mainnet",
+    "networkId": 4181,
+    "nativeCurrency": {
+        "name": "PHI",
+        "symbol": "Φ",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://rpc1.phi.network",
+        "https://rpc2.phi.network"
+    ],
+    "faucets": [],
+    "infoURL": "https://phi.network",
+    "app_resource": {
+        "ic_chain_select": "https://explorer.phi.network/static/media/expedition.10b20a00.png",
+        "ic_chain_unselect": "https://explorer.phi.network/static/media/expedition.10b20a00.png",
+        "color_chain_bg": "0x58B2AF"
+    }
+  },
+  {
     "name": "Polygon (Matic) Mainnet",
     "chainId": 137,
     "shortName": "matic",
