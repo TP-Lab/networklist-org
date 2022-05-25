@@ -7709,5 +7709,28 @@
       "ic_chain_unselect": "https://block.metachain1.com/tokenmetas/meta0.png",
       "color_chain_bg": "0xf3d275"
     }
-  }
+  },
+  {
+    "name": "ETND Chain",
+    "chainId": 131419,
+    "shortName": "etnd",
+    "chain": "ETND",
+    "network": "mainnet",
+    "networkId": 131419,
+    "nativeCurrency": {
+        "name": "ETND",
+        "symbol": "ETND",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://rpc.node1.etnd.pro"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.etnd.pro",
+    "app_resource": {
+        "ic_chain_select": "https://www.etnd.pro/logo/1.png",
+        "ic_chain_unselect": "https://www.etnd.pro/logo/0.png",
+        "color_chain_bg": "0xb000ff"
+    }
+}
 ]
