@@ -7709,5 +7709,37 @@
       "ic_chain_unselect": "https://block.metachain1.com/tokenmetas/meta0.png",
       "color_chain_bg": "0xf3d275"
     }
+  },
+  {
+    "name": "OasisChain",
+    "chainId": 26863,
+    "shortName": "OAC",
+    "chain": "OasisChain",
+    "network": "mainnet",
+    "networkId": 26863,
+    "nativeCurrency": {
+      "name": "OAC",
+      "symbol": "OAC",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://rpc1.oasischain.io",
+      "https://rpc2.oasischain.io",
+      "https://rpc3.oasischain.io"
+    ],
+    "faucets": [],
+    "explorers": [
+      {
+        "name": "OasisChain Explorer",
+        "url": "https://scan.oasischain.io/",
+        "standard": "EIP3091"
+      }
+    ],
+    "infoURL": "https://scan.oasischain.io/",
+    "app_resource": {
+      "ic_chain_select": "https://scan.oasischain.io/tokenmetas/oasis1.png",
+      "ic_chain_unselect": "https://scan.oasischain.io/tokenmetas/oasis0.png",
+      "color_chain_bg": "0x008B45"
+    }
   }
 ]
