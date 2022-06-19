@@ -255,6 +255,24 @@
     "infoURL": "https://cronos.crypto.org/explorer"
   },
   {
+    "name": "PHI Network",
+    "chainId": 4181,
+    "shortName": "PHI",
+    "chain": "PHI",
+    "network": "mainnet",
+    "networkId": 4181,
+    "nativeCurrency": {
+      "name": "PHI",
+      "symbol": "Φ",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://rpc1.phi.network",
+    ],
+    "faucets": [],
+    "infoURL": "https://explorer.phi.network"
+  },
+  {
     "name": "Fusion Mainnet",
     "chainId": 32659,
     "shortName": "fsn",
