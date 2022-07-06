@@ -267,10 +267,10 @@
       "decimals": 18
     },
     "rpc": [
-      "https://mainnet.anyswap.exchange"
+      "https://mainnet.fusionnetwork.io"
     ],
     "faucets": [],
-    "infoURL": "https://fsnex.com/",
+    "infoURL": "https://fsnscan.com",
     "app_resource": {
       "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fusion/1.png",
       "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fusion/0.png",
