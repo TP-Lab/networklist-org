@@ -11060,5 +11060,36 @@
         "standard": "EIP3091"
       }
     ]
+  },
+  {
+    "name": "Ctb Ecology Chain",
+    "chainId": 98,
+    "shortName": "ctb",
+    "chain": "CTB",
+    "network": "mainnet",
+    "networkId": 98,
+    "nativeCurrency": {
+      "name": "CTB",
+      "symbol": "CTB",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://ctb-chain.ousi.tech/",
+      "https://chain.metaverse.spa/"
+    ],
+    "faucets": [],
+    "infoURL": "https://metaverse.spa/",
+    "app_resource": {
+        "ic_chain_select": "https://metaverse.spa/imgs/other/ctb1.png",
+        "ic_chain_unselect": "https://metaverse.spa/imgs/other/ctb0.png",
+        "color_chain_bg": "0x9eea6a"
+    },
+    "explorers": [
+      {
+        "name": "Ctb Scan",
+        "url": "https://scan.metaverse.spa/",
+        "standard": "EIP3091"
+      }
+    ]
   }
 ]
