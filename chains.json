@@ -11060,5 +11060,30 @@
         "standard": "EIP3091"
       }
     ]
+  },
+  {
+    "name": "telegramx",
+    "chainId": 8989,
+    "shortName": "tx",
+    "chain": "ETH",
+    "network": "mainnet",
+    "networkId": 8989,
+    "nativeCurrency": {
+      "name": "TX",
+      "symbol": "TX",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://tx.telegramx.space"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.telegramx.link",
+    "explorers": [
+      {
+        "name": "TX Scan",
+        "url": "https://www.telegramx.link",
+        "standard": "EIP3091"
+      }
+    ]
   }
 ]
