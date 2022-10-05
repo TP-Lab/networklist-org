@@ -11060,5 +11060,31 @@
         "standard": "EIP3091"
       }
     ]
-  }
+  },
+{
+    "name": "Master Bank",
+    "chainId": 220315,
+    "shortName": "Mas",
+    "chain": "Mas",
+    "network": "mainnet",
+    "networkId": 220315,
+    "nativeCurrency": {
+        "name": "Mas",
+        "symbol": "Mas",
+        "decimals": 18
+    },
+    "rpc": [
+        "http://node.masnet.ai:8545",
+        "ws://node.masnet.ai:8546",
+        "http://18.141.158.148:8545",
+        "ws://18.141.158.148:8546"
+    ],
+    "faucets": [],
+    "infoURL": "https://masterbank.org/",
+    "app_resource": {
+        "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/1.png",
+        "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/0.png",
+        "color_chain_bg": "0x58B2AF"
+    }
+}
 ]
