@@ -34,7 +34,7 @@
     },
     "rpc": [
       "https://mainnet.ethereumpow.org",
-      "https://ethw-dataseed1.ethereumpow.org""
+      "https://ethw-dataseed1.ethereumpow.org"
     ],
     "faucets": [],
     "infoURL": "https://ethereumpow.org"
