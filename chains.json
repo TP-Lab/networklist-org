@@ -20,6 +20,25 @@
     "faucets": [],
     "infoURL": "https://ethereum.org"
   },
+    {
+    "name": "Ethereum POW",
+    "chainId": 10001,
+    "shortName": "ethw",
+    "chain": "ETHW",
+    "network": "mainnet",
+    "networkId": 10001,
+    "nativeCurrency": {
+      "name": "EtherPOW",
+      "symbol": "ETHW",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://mainnet.ethereumpow.org",
+      "https://ethw-dataseed1.ethereumpow.org""
+    ],
+    "faucets": [],
+    "infoURL": "https://ethereumpow.org"
+  },
   {
     "name": "Optimistic Ethereum",
     "chainId": 10,
