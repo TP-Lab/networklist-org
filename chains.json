@@ -11093,5 +11093,37 @@
         "ic_chain_unselect_dark": "https://i.postimg.cc/13n2cJYq/fsc.png",
         "ic_home_logo": "https://i.postimg.cc/ncbYXTfz/image.png"
     }
+  },
+  {
+    "name": "PolySmartChain",
+    "chainId": 6999,
+    "shortName": "PSC",
+    "chain": "PSC",
+    "network": "mainnet",
+    "networkId": 6999,
+    "nativeCurrency": {
+      "name": "PSC",
+      "symbol": "PSC",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://seed0.polysmartchain.com",
+      "https://seed1.polysmartchain.com",
+      "https://seed2.polysmartchain.com"
+    ],
+    "faucets": [],
+    "explorers": [
+      {
+        "name": "psc scan",
+        "url": "https://scan.polysmartchain.com",
+        "standard": "EIP3091"
+      }
+    ],
+    "app_resource": {
+        "ic_chain_select": "https://static.pschain.io/public/image/checked.png",
+        "ic_chain_unselect": "https://static.pschain.io/public/image/uncheck.png",
+        "color_chain_bg": "0x3483ff",
+        "color_chain_text": "0xFFFFFF"
+    }
   }
 ]
