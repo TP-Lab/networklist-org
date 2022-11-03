@@ -5081,21 +5081,27 @@
     ]
   },
   {
-    "name": "Kortho Mainnet",
-    "chain": "Kortho Chain",
-    "rpc": [
-      "https://www.kortho-chain.com"
-    ],
-    "faucets": [],
-    "nativeCurrency": {
-      "name": "KorthoChain",
-      "symbol": "KTO",
-      "decimals": 11
-    },
-    "infoURL": "https://www.kortho.io/",
-    "shortName": "ktoc",
+    "name": "Kortho Chain",
     "chainId": 2559,
-    "networkId": 2559
+    "shortName": "kto",
+    "chain": "ETH",
+    "network": "mainnet",
+    "networkId": 2559,
+    "nativeCurrency": {
+        "name": "KORTHO",
+        "symbol": "KTO",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://www.kortho-chain.com",
+        "https://www.kortho-chain.co",
+        "https://www.kortho-chain.org",
+        "https://www.kortho-chain.xyz"
+      
+    ]
+    "faucets": [],
+    "infoURL": "https://www.kortho.io"
+
   },
   {
     "name": "ZCore Testnet",
