@@ -11,7 +11,7 @@ A donation is needed for your PR to be merged. If your PR is not compatible with
 本仓库为TokenPocket根据社区需求进行自定义网络（公链）更新，只要PR被合并就可以在自定义网络--快捷加链的列表中收录，请根据以下指引进行提交。
 
 ## 公链收录审核及捐赠标准
-https://help.tokenpocket.pro/developer-cn/public-chain/add-chain
+https://help.tokenpocket.pro/developer-us/public-chain/add-chain
 
 提交PR合并需要捐赠,如果不满足审核要求，则不进行合并，捐赠不会进行退回，请您按需进行提交。
 
