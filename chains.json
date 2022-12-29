@@ -5081,10 +5081,10 @@
     ]
   },
   {
-    "name": "Kortho Chain",
+   "name": "Kortho Chain",
     "chainId": 2559,
-    "shortName": "kto",
-    "chain": "ETH",
+    "shortName": "KTO",
+    "chain": "KTO",
     "network": "mainnet",
     "networkId": 2559,
     "nativeCurrency": {
@@ -5096,11 +5096,17 @@
         "https://www.kortho-chain.com",
         "https://www.kortho-chain.co",
         "https://www.kortho-chain.org",
-        "https://www.kortho-chain.xyz"
+        "https://www.kortho-chain.xyz",
       
-    ]
+    ],
     "faucets": [],
-    "infoURL": "https://www.kortho.io"
+    "infoURL": "https://www.kortho.io",
+     "app_resource": {
+        "ic_chain_select": "https://www.kortho.io/static/image/1.png",
+        "ic_chain_unselect": "https://www.kortho.io/static/image/0.png",
+        "color_chain_bg": "0x748ee3"
+        "txUrl":" https://www.kortho.io/", 
+    }
 
   },
   {
