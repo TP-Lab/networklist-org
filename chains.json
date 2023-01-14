@@ -21,6 +21,35 @@
     "infoURL": "https://ethereum.org"
   },
   {
+    "name": "BeOne Testnet",
+    "chain": "BOC",
+    "rpc": [
+      "https://pre-boc1.beonechain.com",
+      "https://pre-boc2.beonechain.com",
+      "https://pre-boc3.beonechain.com"
+    ],
+    "faucets": [
+      "https://testnet.beonescan.com/faucet"
+    ],
+    "nativeCurrency": {
+      "name": "BeOne Testnet",
+      "symbol": "tBOC",
+      "decimals": 18
+    },
+    "infoURL": "https://github.com/beonechain",
+    "shortName": "boctestnet",
+    "chainId": 8181,
+    "networkId": 8181,
+    "icon": "boc",
+    "explorers": [
+       {
+          "name": "BeOne Testnet",
+          "url": "https://testnet.beonescan.com",
+          "standard": "none"
+       }
+    ]
+  },
+  {
     "name": "Optimistic Ethereum",
     "chainId": 10,
     "shortName": "oeth",
