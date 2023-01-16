@@ -1,19 +1,18 @@
-# Description
+No# Description
 This is the repo for TokenPocket to add public chains according to the community requirements. Once the PR is merged, the chain will be included on TokenPocket's Easy Add feature. Please read the following tutorials.
 
 ## Listing and donation standard
 https://help.tokenpocket.pro/developer-en/network/add-chain
 
-A donation is needed for your PR to be merged. If your PR is not compatible with the Review Rules, it won't be merged and the donation won't be refunded. Please be cautious.
+A donation is needed for your PR to be merged. If your PR is not compatible with the Review Rules, it will be merged and the donation will be refunded. Please be cautious.
 
 
-# 简介
-本仓库为TokenPocket根据社区需求进行自定义网络（公链）更新，只要PR被合并就可以在自定义网络--快捷加链的列表中收录，请根据以下指引进行提交。
+# 
+TokenPocket
 
-## 公链收录审核及捐赠标准
+## 
 https://help.tokenpocket.pro/developer-cn/public-chain/add-chain
 
-提交PR合并需要捐赠,如果不满足审核要求，则不进行合并，捐赠不会进行退回，请您按需进行提交。
 
 ## How to add a new chain
 
@@ -53,11 +52,9 @@ Example:
 }
 ```
 
-## 如何添加一个新链
+##
+`chains.json`
 
-Fork该仓库并在`chains.json` 中加入您的EVM链信息
-
-示例:
 
 ```javascript
 {
