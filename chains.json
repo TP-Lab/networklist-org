@@ -17375,6 +17375,38 @@
     ]
   },
   {
+    "name": "Lambda Mainnet",
+    "chain": "Lambda",
+    "rpc": [
+      "https://evm.lambda.im/"
+    ],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "LAMB",
+      "symbol": "LAMB",
+      "decimals": 18
+    },
+    "infoURL": "https://lambda.im",
+    "shortName": "lambda-mainnet",
+    "chainId": 92000,
+    "networkId": 92000,
+    "icon": "lambda",
+    "explorers": [
+      {
+        "name": "Lambda EVM Explorer (Blockscout)",
+        "url": "https://explorer.lambda.im/",
+        "standard": "none",
+        "icon": "lambda"
+      },
+      {
+        "name": "Lambda Explorer",
+        "url": "https://explorer.nodestake.top/lambda",
+        "standard": "none",
+        "icon": "lambda"
+      }
+    ]
+  },
+  {
     "name": "Lambda Testnet",
     "chain": "Lambda",
     "rpc": [
