@@ -24681,5 +24681,30 @@
       "ic_chain_unselect": "https://teddynft.oss-ap-southeast-1.aliyuncs.com/ete/unselect.png",
       "color_chain_bg": "0x013162"
     }
+  },
+  {
+    "name": "Kon Mainnet",
+    "chain": "Kon Network",
+    "icon": "kon",
+    "rpc": [
+      "https://api.kon-wallet.com/"
+    ],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "KON",
+      "symbol": "KON",
+      "decimals": 18
+    },
+    "infoURL": "https://konpay.io/",
+    "shortName": "KON Mainnet",
+    "chainId": 17217,
+    "networkId": 17217,
+    "explorers": [
+      {
+        "name": "KON Explorer",
+        "url": "https://explorer.kon-wallet.com/",
+        "standard": "EIP3091"
+      }
+    ]
   }
 ]
