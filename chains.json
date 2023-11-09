@@ -24686,6 +24686,7 @@
     "name": "Kon Mainnet",
     "chain": "Kon Network",
     "icon": "kon",
+    "network": "mainnet",
     "rpc": [
       "https://api.kon-wallet.com/"
     ],
@@ -24696,7 +24697,7 @@
       "decimals": 18
     },
     "infoURL": "https://konpay.io/",
-    "shortName": "KON Mainnet",
+    "shortName": "KON",
     "chainId": 17217,
     "networkId": 17217,
     "explorers": [
@@ -24705,6 +24706,11 @@
         "url": "https://explorer.kon-wallet.com/",
         "standard": "EIP3091"
       }
-    ]
+    ],
+    "app_resource": {
+      "ic_chain_select": "https://i.imgur.com/8QuxX7h.png",
+      "ic_chain_unselect": "https://i.imgur.com/Yo6wNtL.png",
+      "color_chain_bg": "#0x1335b0"
+    }
   }
 ]
