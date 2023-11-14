@@ -24708,8 +24708,8 @@
       }
     ],
     "app_resource": {
-      "ic_chain_select": "https://i.imgur.com/8QuxX7h.png",
-      "ic_chain_unselect": "https://i.imgur.com/Yo6wNtL.png",
+      "ic_chain_select": "https://bkon-cdn.s3.ap-southeast-1.amazonaws.com/ic_chain_select.png",
+      "ic_chain_unselect": "https://bkon-cdn.s3.ap-southeast-1.amazonaws.com/ic_chain_unselect.png",
       "color_chain_bg": "#0x1335b0"
     }
   }
