@@ -31307,3 +31307,26 @@
     ]
   }
 ]
+  },
+  {
+    "name": "Mint Testnet",
+    "chainId": 1686,
+    "shortName": "Mint Testnet",
+    "chain": "Mint Testnet",
+    "network": "testnet",
+    "networkId": 1686,
+    "nativeCurrency": {
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://testnet-rpc.mintchain.io"
+    ],
+    "explorers": [
+      {
+        "name": "Mint Testnet Explorer",
+        "url": "https://testnet-explorer.mintchain.io",
+        "standard": "EIP3091"
+      }
+    ]
