@@ -42994,4 +42994,27 @@
       }
     ]
   }
+  {
+    "name": "The AliX Tech",
+    "chainId": 2051239630,
+    "shortName": "AliX",
+    "chain": "AliX",
+    "network": "mainnet",
+    "networkId": 2051239630,
+    "nativeCurrency": {
+        "name": "AliX",
+        "symbol": "AliX",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://u1g9pvvzr0:xvzoFOrcQ6Hm35w_hEtgSrProq0uD-4UcDnCWTSsjZA@u1p8c8k7f4-u1qyf71rci-rpc.us1-azure.kaleido.io/",
+    ],
+    "faucets": [],
+    "infoURL": "https://network.thealixtech.xyz/",
+    "app_resource": {
+        "ic_chain_select": "https://firebasestorage.googleapis.com/v0/b/alixtechfirecdn.appspot.com/o/165436420627t7?alt=media&token=a2e99a6c-f5bd-40a0-9386-1f2f423e4e89",
+        "ic_chain_unselect": "https://firebasestorage.googleapis.com/v0/b/alixtechfirecdn.appspot.com/o/165436420627t7?alt=media&token=a2e99a6c-f5bd-40a0-9386-1f2f423e4e89",
+        "color_chain_bg": "FF0000"
+    }
+ }
 ]
