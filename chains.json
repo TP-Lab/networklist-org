@@ -14781,7 +14781,13 @@
         "url": "https://mainnet.bityuan.com",
         "standard": "none"
       }
-    ]
+    ],
+    "app_resource": {
+      "ic_chain_select": "https://www.bityuan.com/download/logo/logo2.png",
+      "ic_chain_unselect": "https://www.bityuan.com/download/logo/logo1.png",
+      "color_chain_bg": "0x333333",
+      "color_chain_text": "0xFFFFFF"
+    }
   },
   {
     "name": "Orlando Chain",
