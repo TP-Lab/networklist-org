@@ -43122,5 +43122,28 @@
             "standard": "EIP3091"
         }
     ]
-  }
+  },
+  {
+    "name": "MAK Chain",
+    "chainId": 69916,
+    "shortName": "mak",
+    "chain": "MAK",
+    "network": "mainnet",
+    "networkId": 69916,
+    "nativeCurrency": {
+        "name": "MAK",
+        "symbol": "MAK",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://node.mak.top"
+    ],
+    "faucets": [],
+    "infoURL": "https://scan.mak.top",
+    "app_resource": {
+        "ic_chain_select": "https://node.mak.top/icon/bi1.png",
+        "ic_chain_unselect": "https://node.mak.top/icon/bi0.png",
+        "color_chain_bg": "0x58B2AF"
+    }
+   }
 ]
