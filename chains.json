@@ -43143,7 +43143,9 @@
     "app_resource": {
         "ic_chain_select": "https://node.mak.top/icon/bi1.png",
         "ic_chain_unselect": "https://node.mak.top/icon/bi0.png",
-        "color_chain_bg": "0x58B2AF"
+        "color_chain_bg": "0x202630",
+        "color_chain_text": "0xF8F8FF",
+        "ic_home_logo":""
     }
    }
 ]
