@@ -1,0 +1,27 @@
+{
+   "name": "MAK Chain",
+    "chainId": 69916,
+    "shortName": "mak",
+    "chain": "MAK",
+    "network": "mainnet",
+    "networkId": 69916,
+    "nativeCurrency": {
+        "name": "MAK",
+        "symbol": "MAK",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://node.mak.top"
+    ],
+    "faucets": [ ],
+    "infoURL": "https://makchain.com",
+                     "https://scan.mak.top"
+    "app_resource": {
+        "ic_chain_select": "https://img10.360buyimg.com/imgzone/jfs/t1/111359/37/49767/89180/66f81196Fe870e85e/5ec853e27babde6e.png",
+        "ic_chain_unselect": "https://pic.rmb.bdstatic.com/bjh/240929/27a3c6b06fd47a57bac9888dcf74b81c9354.jpeg",
+        "ic_chain_unselect_dark": "",
+        "color_chain_bg": "0x000000",
+        "color_chain_text": "0xF8F8FF",
+        "ic_home_logo":"https://img10.360buyimg.com/imgzone/jfs/t1/111359/37/49767/89180/66f81196Fe870e85e/5ec853e27babde6e.png"
+    }
+}
