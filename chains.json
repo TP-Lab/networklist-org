@@ -43063,82 +43063,82 @@
     "network": "mainnet",
     "networkId": 8188,
     "nativeCurrency": {
-        "name": "Phecda",
-        "symbol": "PCD",
-        "decimals": 18
+      "name": "Phecda",
+      "symbol": "PCD",
+      "decimals": 18
     },
     "rpc": [
-        "https://rpc.pcddao.com",
-        "wss://rpc.pcddao.com/wss",
-        "https://validator-01.pcddao.com",
-        "https://validator-02.pcddao.com",
-        "https://validator-03.pcddao.com",
-        "https://validator-04.pcddao.com",
-        "https://validator-05.pcddao.com",
-        "https://validator-06.pcddao.com",
-        "https://validator-07.pcddao.com",
-        "https://validator-08.pcddao.com",
-        "https://validator-09.pcddao.com",
-        "https://validator-10.pcddao.com",
-        "https://validator-11.pcddao.com",
-        "https://validator-12.pcddao.com",
-        "https://validator-13.pcddao.com",
-        "https://validator-14.pcddao.com",
-        "https://validator-15.pcddao.com",
-        "https://validator-16.pcddao.com",
-        "https://validator-17.pcddao.com",
-        "https://validator-18.pcddao.com",
-        "https://validator-19.pcddao.com",
-        "https://validator-20.pcddao.com",
-        "https://validator-21.pcddao.com",
-        "https://validator-22.pcddao.com",
-        "https://validator-23.pcddao.com",
-        "https://validator-24.pcddao.com",
-        "https://validator-25.pcddao.com",
-        "https://validator-26.pcddao.com",
-        "https://validator-27.pcddao.com",
-        "https://validator-28.pcddao.com",
-        "https://validator-29.pcddao.com",
-        "https://validator-30.pcddao.com",
-        "https://validator-31.pcddao.com",
-        "https://validator-32.pcddao.com",
-        "https://validator-33.pcddao.com"
+      "https://rpc.pcddao.com",
+      "wss://rpc.pcddao.com/wss",
+      "https://validator-01.pcddao.com",
+      "https://validator-02.pcddao.com",
+      "https://validator-03.pcddao.com",
+      "https://validator-04.pcddao.com",
+      "https://validator-05.pcddao.com",
+      "https://validator-06.pcddao.com",
+      "https://validator-07.pcddao.com",
+      "https://validator-08.pcddao.com",
+      "https://validator-09.pcddao.com",
+      "https://validator-10.pcddao.com",
+      "https://validator-11.pcddao.com",
+      "https://validator-12.pcddao.com",
+      "https://validator-13.pcddao.com",
+      "https://validator-14.pcddao.com",
+      "https://validator-15.pcddao.com",
+      "https://validator-16.pcddao.com",
+      "https://validator-17.pcddao.com",
+      "https://validator-18.pcddao.com",
+      "https://validator-19.pcddao.com",
+      "https://validator-20.pcddao.com",
+      "https://validator-21.pcddao.com",
+      "https://validator-22.pcddao.com",
+      "https://validator-23.pcddao.com",
+      "https://validator-24.pcddao.com",
+      "https://validator-25.pcddao.com",
+      "https://validator-26.pcddao.com",
+      "https://validator-27.pcddao.com",
+      "https://validator-28.pcddao.com",
+      "https://validator-29.pcddao.com",
+      "https://validator-30.pcddao.com",
+      "https://validator-31.pcddao.com",
+      "https://validator-32.pcddao.com",
+      "https://validator-33.pcddao.com"
     ],
     "faucets": [],
     "infoURL": "https://www.pcddao.com",
     "app_resource": {
-        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1726129442644.png",
-        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1726129467588.png",
-        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1726129484449.png",
-        "color_chain_bg": "0x000000",
-        "color_chain_text": "0xFFFFFF",
-        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1726129520717.png"
+      "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1726129442644.png",
+      "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1726129467588.png",
+      "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1726129484449.png",
+      "color_chain_bg": "0x000000",
+      "color_chain_text": "0xFFFFFF",
+      "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1726129520717.png"
     },
     "explorers": [
-        {
-            "name": "Phecda Chain Explorer",
-            "icon": "PCD",
-            "url": "https://pcdscan.pcddao.com",
-            "standard": "EIP3091"
-        }
+      {
+        "name": "Phecda Chain Explorer",
+        "icon": "PCD",
+        "url": "https://pcdscan.pcddao.com",
+        "standard": "EIP3091"
+      }
     ]
   },
   {
-   "name": "MAK Chain",
+    "name": "MAK Chain",
     "chainId": 69916,
     "shortName": "mak",
     "chain": "MAK",
     "network": "mainnet",
     "networkId": 69916,
     "nativeCurrency": {
-        "name": "MAK",
-        "symbol": "MAK",
-        "decimals": 18
+      "name": "MAK",
+      "symbol": "MAK",
+      "decimals": 18
     },
     "rpc": [
-        "https://node.mak.top"
+      "https://node.mak.top"
     ],
-    "faucets": [ ],
+    "faucets": [],
     "infoURL": "https://makchain.com",
     "explorers": [
       {
@@ -43149,12 +43149,44 @@
       }
     ],
     "app_resource": {
-        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1727683950446.png",
-        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1727683925035.png",
-        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1727683937912.png",
-        "color_chain_bg": "0x000000",
-        "color_chain_text": "0xF8F8FF",
-        "ic_home_logo":"https://hk.tpstatic.net/token/tokenpocket-1727683966410.png"
+      "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1727683950446.png",
+      "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1727683925035.png",
+      "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1727683937912.png",
+      "color_chain_bg": "0x000000",
+      "color_chain_text": "0xF8F8FF",
+      "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1727683966410.png"
+    }
+  },
+  {
+    "name": "Unichain Sepolia",
+    "chainId": 1301,
+    "shortName": "unichainsepolia",
+    "chain": "Unichain Sepolia",
+    "network": "Sepolia",
+    "networkId": 1301,
+    "nativeCurrency": {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://sepolia.unichain.org"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.unichain.org/",
+    "explorers": [
+      {
+        "name": "Unichain Sepolia Testnet Explorer",
+        "url": "https://sepolia.uniscan.xyz/",
+        "standard": "EIP3091",
+        "icon": "https://hk.tpstatic.net/token/tokenpocket-1728614844418.png"
+      }
+    ],
+    "app_resource": {
+      "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1728614844418.png",
+      "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1728614859885.png",
+      "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1728614869904.png",
+      "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1728614883541.png"
     }
   }
 ]
