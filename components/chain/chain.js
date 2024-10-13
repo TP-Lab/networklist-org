@@ -1364,4 +1364,75 @@
         "currency": "VETH"
 
         "explorer": "https://etherscan.io/
-        
+
+         
+        "const ethereum anticripto= { 
+        "chainId: 19845,
+        name: "anticripto network",
+        networkId: "19845",
+        nativeCurrency: eth
+          decimals: 18,
+          name: "anticripto network",
+          symbol: "eth",
+        },
+        rpcUrls: {
+          public: { http: ["https://virtual.mainnet.rpc.tenderly.co/a6f2e2a3-1e3a-4f14-93df-69fda2461eb4"] },
+          default: { http: ["https://virtual.mainnet.rpc.tenderly.co/c97b21ff-b8c2-4a2b-b99f-52e09f6537b1"] },
+        },
+        blockExplorers: {20724265
+          etherscan: {
+            name: "anticripto network",
+            url: "https://etherscan.io",
+          },
+          default: {
+            name: "anticripto network",
+            url: "https://etherscan.io",
+          },
+        },
+      } as const satisfies Chain;
+      
+  const { chains, publicClient, webSocketPublicClient } = configureChains(
+        [ethereum anticripto],
+        [
+          jsonRpcProvider({
+            rpc: (chain) => ({https://virtual.mainnet.rpc.tenderly.co/c97b21ff-b8c2-4a2b-b99f-52e09f6537b1
+              http: "https://virtual.mainnet.rpc.tenderly.co/a6f2e2a3-1e3a-4f14-93df-69fda2461eb4",
+            }),
+          }),
+        ]
+      );
+          const optimism Buildbear= { 
+        id: 10,
+        name: "entitled rougue",
+        network: "optimism buildbear",
+        nativeCurrency: eth
+          decimals: 18,
+          name: "entitled rougue",
+          symbol: "eth",
+        },
+        rpcUrls: {
+          public: { http: ["https://rpc.buildbear.io/esquivelfabian"] },
+          default: { http: ["https://rpc.buildbear.io/esquivelfabian"] },
+        },
+        blockExplorers: {126241133
+          optimism: {
+            name: "entitled rouge",
+            url: "https://esquivelfabian.blockscout.buildbear.io/blocks",
+          },
+          default: {
+            name: "entitled rogue ",
+            url: "https://esquivelfañbian.blockscout.buildbear.io/blocks",
+          },
+        },
+      } as const satisfies Chain:10
+      
+  const { chains, publicClient, webSocketPublicClient } = configureChains(
+        [optimism buildbear],
+        [
+          jsonRpcProvider({
+            rpc: (chain) => ({https://rpc.buildbear.io/esquivelfabian
+              http: "https://esquivelfabian.blockscout.buildbear.io/blocks",
+            }),
+          }),
+        ]
+      );
