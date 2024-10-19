@@ -43167,7 +43167,8 @@
     "nativeCurrency": {
       "name": "Ethereum",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
     },
     "rpc": [
       "https://sepolia.unichain.org"
@@ -43187,6 +43188,39 @@
       "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1728614859885.png",
       "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1728614869904.png",
       "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1728614883541.png"
+    }
+  },
+  {
+    "name": "World Chain",
+    "chainId": 480,
+    "shortName": "worldchain",
+    "chain": "World Chain",
+    "network": "Mainnet",
+    "networkId": 480,
+    "nativeCurrency": {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
+    },
+    "rpc": [
+      "https://worldchain-mainnet.g.alchemy.com/public"
+    ],
+    "faucets": [],
+    "infoURL": "https://worldcoin.org/world-chain",
+    "explorers": [
+      {
+        "name": "World Chain explorer",
+        "url": "https://worldchain-mainnet.explorer.alchemy.com/",
+        "standard": "EIP3091",
+        "icon": "https://hk.tpstatic.net/token/tokenpocket-1729148431568.png"
+      }
+    ],
+    "app_resource": {
+      "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729148431568.png",
+      "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729148819446.png",
+      "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729148859843.png",
+      "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729148881406.png"
     }
   }
 ]
