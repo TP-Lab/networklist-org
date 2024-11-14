@@ -1,0 +1,27 @@
+{
+    "name": "DuckChain Testnet",
+    "chainId": 202105,
+    "shortName": "DuckChain",
+    "chain": "DuckChain",
+    "network": "Testnet",
+    "networkId": 202105,,
+    "nativeCurrency": {
+        "name": "TON",
+        "symbol": "TON",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://testnet-rpc.duckchain.io",
+        "https://testnet-rpc-hk.duckchain.io",
+    ],
+    "faucets": [],
+    "infoURL": "https://testnet-rpc-hk.duckchain.io",
+    "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1731591999274.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1731591999274.png", 
+        "ic_chain_unselect_dark": "",//
+        "color_chain_bg": "0x58B2AF",//
+        "color_chain_text": "0xFFFFFF",//
+        "ic_home_logo":"https://hk.tpstatic.net/token/tokenpocket-1731592251204.jpg"//
+    }
+}
