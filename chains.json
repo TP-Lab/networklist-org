@@ -43369,5 +43369,35 @@
       "color_chain_text": "0xFFFFFF",
       "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1731592251204.jpg"
     }
+  },
+  {
+    "name": "Xone Testnet",
+    "chainId": 33772211,
+    "shortName": "XoneChain",
+    "chain": "XOC",
+    "network": "Testnet",
+    "networkId": 33772211,
+    "nativeCurrency": {
+      "name": "Xone Coin",
+      "symbol": "XOC",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://rpc-testnet.xone.plus/",
+      "https://rpc-testnet.xone.org",
+      "https://rpc-testnet.knight.center"
+    ],
+    "faucets": [
+      "https://faucet.xone.plus/"
+    ],
+    "infoURL": "https://xone.plus",
+    "app_resource": {
+      "ic_chain_select": "https://harlequin-tragic-camel-788.mypinata.cloud/ipfs/bafkreic2hncyyvuhvm2uzdyprmbblfw2hmiulwfhc6fzbdeyiyyuwiikju",
+      "ic_chain_unselect": "https://harlequin-tragic-camel-788.mypinata.cloud/ipfs/bafkreic5h4olyqnslw5dzi3bkea3jjgxntkfyxlmtwkw7ds6h4fljsxdxi",
+      "ic_chain_unselect_dark": "https://harlequin-tragic-camel-788.mypinata.cloud/ipfs/bafkreic5h4olyqnslw5dzi3bkea3jjgxntkfyxlmtwkw7ds6h4fljsxdxi",
+      "color_chain_bg": "0xED0000",
+      "color_chain_text": "0xFFFFFF",
+      "ic_home_logo": "https://harlequin-tragic-camel-788.mypinata.cloud/ipfs/bafkreid6nqgu4qumasmn6cbaoffo6ibhrxr4vxzhpqs7nrubkoaupvklfu"
+    }
   }
 ]
