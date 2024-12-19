@@ -43369,5 +43369,31 @@
       "color_chain_text": "0xFFFFFF",
       "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1731592251204.jpg"
     }
+  },
+  {
+  "name": "IDC Mainnet",
+  "chainId": 36713,
+  "shortName": "idc",
+  "chain": "IDC",
+  "network": "mainnet",
+  "networkId": 36713,
+  "nativeCurrency": {
+    "name": "IDC",
+    "symbol": "IDC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.idcchain.io"
+  ],
+  "faucets": [],
+  "infoURL": "https://explorer.idcchain.com",
+  "app_resource": {
+    "ic_chain_select": "https://storage-api.supremelegend.io/infinitar/5ddc0793-35da-42ea-8574-30d510e5d879.png",
+    "ic_chain_unselect": "https://storage-api.supremelegend.io/infinitar/91ad3ae2-68e2-47d5-85a7-c1fdb66166d7.png",
+    "ic_chain_unselect_dark": "https://storage-api.supremelegend.io/infinitar/91ad3ae2-68e2-47d5-85a7-c1fdb66166d7.png",
+    "color_chain_bg": "0x4F25E6",
+    "color_chain_text": "0xFFFFFF",
+    "ic_home_logo": "https://storage-api.supremelegend.io/infinitar/5ddc0793-35da-42ea-8574-30d510e5d879.png" //首页卡片显示的logo
   }
+}
 ]
