@@ -570,6 +570,34 @@
         }
     },
     {
+        "name": "ink Chain",
+        "chainId": 57073,
+        "shortName": "Ink",
+        "chain": "ETH",
+        "network": "mainnet",
+        "networkId": 57073,
+        "nativeCurrency": {
+            "name": "ETH",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc-gel.inkonchain.com"
+        ],
+        "faucets": [
+
+        ],
+        "infoURL": "https://inkonchain.com",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1734943356939.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1734943333910.png",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1734943372736.png",
+            "color_chain_bg": "0x7132F5",
+            "color_chain_text": "0xFFFFFF",
+            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1734943399646.png"
+        }
+    },
+    {
         "name": "BounceBit Testnet",
         "chainId": 6000,
         "shortName": "BBT",
@@ -46225,34 +46253,6 @@
             "color_chain_bg": "0x58B2AF",
             "color_chain_text": "0xFFFFFF",
             "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1731592251204.jpg"
-        }
-    },
-    {
-        "name": "Ink Chain",
-        "chainId": 57073,
-        "shortName": "Ink",
-        "chain": "Ink",
-        "network": "mainnet",
-        "networkId": 57073,
-        "nativeCurrency": {
-            "name": "ETH",
-            "symbol": "ETH",
-            "decimals": 18
-        },
-        "rpc": [
-            "https://rpc-gel.inkonchain.com"
-        ],
-        "faucets": [
-
-        ],
-        "infoURL": "https://inkonchain.com",
-        "app_resource": {
-            "ic_chain_select": "",
-            "ic_chain_unselect": "",
-            "ic_chain_unselect_dark": "",
-            "color_chain_bg": "0x000000",
-            "color_chain_text": "0xF8F8FF",
-            "ic_home_logo": ""
         }
     }
 ]
