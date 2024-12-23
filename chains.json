@@ -4271,6 +4271,34 @@
         ]
     },
     {
+        "name": "IDC Mainnet",
+        "chainId": 36713,
+        "shortName": "idc",
+        "chain": "IDC",
+        "network": "mainnet",
+        "networkId": 36713,
+        "nativeCurrency": {
+            "name": "IDC",
+            "symbol": "IDC",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.idcchain.io"
+        ],
+        "faucets": [
+
+        ],
+        "infoURL": "https://explorer.idcchain.com",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1734706533803.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1734706518095.png",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1734706552903.png",
+            "color_chain_bg": "0x4F25E6",
+            "color_chain_text": "0xFFFFFF",
+            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1734706574819.png"
+        }
+    },
+    {
         "name": "IDChain Mainnet",
         "chain": "IDChain",
         "network": "mainnet",
@@ -46197,34 +46225,6 @@
             "color_chain_bg": "0x58B2AF",
             "color_chain_text": "0xFFFFFF",
             "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1731592251204.jpg"
-        }
-    },
-    {
-        "name": "IDC Mainnet",
-        "chainId": 36713,
-        "shortName": "idc",
-        "chain": "IDC",
-        "network": "mainnet",
-        "networkId": 36713,
-        "nativeCurrency": {
-            "name": "IDC",
-            "symbol": "IDC",
-            "decimals": 18
-        },
-        "rpc": [
-            "https://rpc.idcchain.io"
-        ],
-        "faucets": [
-
-        ],
-        "infoURL": "https://explorer.idcchain.com",
-        "app_resource": {
-            "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1734706533803.png",
-            "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1734706518095.png",
-            "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1734706552903.png",
-            "color_chain_bg": "0x4F25E6",
-            "color_chain_text": "0xFFFFFF",
-            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1734706574819.png"
         }
     },
     {
