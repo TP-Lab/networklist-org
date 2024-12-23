@@ -43136,13 +43136,13 @@
         "decimals": 18
     },
     "rpc": [
-        "https://node.mak.top"
+        "https://node.makchain.top"
     ],
     "faucets": [],
-    "infoURL": "https://scan.mak.top",
+    "infoURL": "https://scan.makchain.top",
     "app_resource": {
-        "ic_chain_select": "https://node.mak.top/icon/bi1.png",
-        "ic_chain_unselect": "https://node.mak.top/icon/bi0.png",
+        "ic_chain_select": "https://node.makchain.top/icon/bi1.png",
+        "ic_chain_unselect": "https://node.makchain.top/icon/bi0.png",
         "color_chain_bg": "0x202630",
         "color_chain_text": "0xF8F8FF",
         "ic_home_logo":""
