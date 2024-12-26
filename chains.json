@@ -577,9 +577,10 @@
         "network": "mainnet",
         "networkId": 57073,
         "nativeCurrency": {
-            "name": "ETH",
+            "name": "Ethereum",
             "symbol": "ETH",
-            "decimals": 18
+            "decimals": 18,
+            "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
         },
         "rpc": [
             "https://rpc-gel.inkonchain.com"
@@ -820,6 +821,33 @@
             "ic_chain_select": "https://btachain.com/images/favicon/logo.png",
             "ic_chain_unselect": "https://btachain.com/images/favicon/logo-0x.png",
             "color_chain_bg": "0x0777cf"
+        }
+    },
+    {
+        "name": "HyperEVM Testnet",
+        "chainId": 998,
+        "shortName": "hypetest",
+        "chain": "ETH",
+        "network": "testnet",
+        "networkId": 998,
+        "nativeCurrency": {
+            "name": "HYPE",
+            "symbol": "HYPE",
+            "decimals": 18,
+            "icon": "https://hk.tpstatic.net/token/tokenpocket-1735198406390.png"
+        },
+        "rpc": [
+            "https://api.hyperliquid-testnet.xyz/evm"
+        ],
+        "status": "active",
+        "faucets": [
+            "https://app.hyperliquid-testnet.xyz/drip"
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1735198406390.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1735198946146.png",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1735198976376.png",
+            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1735203149793.png"
         }
     },
     {
