@@ -209,6 +209,30 @@
         }
     },
     {
+        "name": "Soneium",
+        "chainId": 1868,
+        "shortName": "Soneium",
+        "chain": "Soneium",
+        "network": "mainnet",
+        "networkId": 1868,
+        "nativeCurrency": {
+            "name": "ETH",
+            "symbol": "ETH",
+            "decimals": 18,
+            "icon": "https://hk.tpstatic.net/dapp/tokenpocket-1736823908221.png"
+        },
+        "rpc": [
+            "https://rpc.soneium.org/"
+        ],
+        "status": "active",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1736823908221.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1736823938081.png",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1736823960573.png",
+            "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1736823877492.png"
+        }
+    },
+    {
         "name": "Fraxtal",
         "chain": "FRAX",
         "rpc": [
