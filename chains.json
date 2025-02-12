@@ -46332,11 +46332,11 @@
           "faucets": [],
           "infoURL": "https://unichain.org/",
           "app_resource": {
-          "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1731591999274.png",
-          "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1735308219699.png",
+          "ic_chain_select": "",
+          "ic_chain_unselect": "",
           "color_chain_bg": "0x0D0C00",
           "color_chain_text": "0xFFDA00",
-          "ic_chain_unselect_dark":"https://hk.tpstatic.net/token/tokenpocket-1735308262153.png",
-          "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1735308297105.png"
+          "ic_chain_unselect_dark":"",
+          "ic_home_logo": ""
         }
     }
