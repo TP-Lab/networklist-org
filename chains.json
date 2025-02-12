@@ -186,7 +186,8 @@
         "nativeCurrency": {
             "name": "Ether",
             "symbol": "ETH",
-            "decimals": 18
+            "decimals": 18,
+            "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
         },
         "infoURL": "https://unichain.org",
         "shortName": "Unichain",
