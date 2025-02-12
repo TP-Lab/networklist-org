@@ -175,6 +175,41 @@
         }
     },
     {
+        "name": "Unichain",
+        "chain": "ETH",
+        "rpc": [
+            "https://mainnet.unichain.org"
+        ],
+        "faucets": [
+
+        ],
+        "nativeCurrency": {
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "infoURL": "https://unichain.org",
+        "shortName": "Unichain",
+        "chainId": 130,
+        "networkId": 130,
+        "icon": "eth",
+        "explorers": [
+            {
+                "name": "Uniscan",
+                "url": "https://uniscan.xyz",
+                "standard": "EIP3091"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1739334330161.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1739334338422.png",
+            "color_chain_bg": "0xFC0FA4",
+            "color_chain_text": "0xFFFFFF",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1739334369309.png",
+            "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1739334348465.png"
+        }
+    },
+    {
         "name": "FON Smart Chain",
         "chainId": 201022,
         "shortName": "FON",
@@ -46337,5 +46372,4 @@
             "color_chain_text": "0xFFFFFF"
           }
     }
-
 ]
