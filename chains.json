@@ -46314,4 +46314,25 @@
           }
     }
 
-]
+{
+          "name": "Unichain Mainnet",
+          "chainId": 130,
+          "shortName": "uni",
+          "chain": "Unichain",
+          "network": "mainnet",
+          "networkId": 130,
+          "nativeCurrency": {
+            "name": "ETH",
+            "symbol": "ETH",
+            "decimals": 18
+          },
+          "rpc": [
+            "https://mainnet.unichain.org/",
+          ],
+          "faucets": [],
+          "infoURL": "https://unichain.org/",
+          "app_resource": {
+            "ic_chain_select": "",
+            "ic_chain_unselect": "",
+            "color_chain_bg": "0xF83008",
+            "color_chain_text": "0xFFFFFF"
