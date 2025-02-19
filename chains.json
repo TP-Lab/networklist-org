@@ -149,6 +149,33 @@
         }
     },
     {
+        "name": "HyperEVM Mainnet",
+        "chainId": 999,
+        "shortName": "hyper",
+        "chain": "HyperEVM",
+        "network": "mainnet",
+        "networkId": 999,
+        "nativeCurrency": {
+            "name": "HYPE",
+            "symbol": "HYPE",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.hyperliquid.xyz/evm"
+        ],
+        "faucets": [
+        ],
+        "infoURL": "https://app.hyperliquid.xyz/",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1739940296685.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1739940300937.png",
+            "color_chain_bg": "0x0D0C00",
+            "color_chain_text": "0xFFDA00",
+            "ic_chain_unselect_dark":"https://hk.tpstatic.net/dapp/tokenpocket-1739940305794.png",
+            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1739944259234.png"
+        }
+    },
+    {
         "name": "ThunderCore Mainnet",
         "chainId": 108,
         "shortName": "TT",
@@ -3731,26 +3758,6 @@
             "https://faucet.joys.digital/"
         ],
         "infoURL": "https://joys.digital"
-    },
-    {
-        "name": "Wanchain Testnet",
-        "chainId": 999,
-        "shortName": "twan",
-        "chain": "WAN",
-        "network": "testnet",
-        "networkId": 999,
-        "nativeCurrency": {
-            "name": "Wancoin",
-            "symbol": "WAN",
-            "decimals": 18
-        },
-        "rpc": [
-            "https://gwan-ssl.wandevs.org:46891/"
-        ],
-        "faucets": [
-
-        ],
-        "infoURL": "https://testnet.wanscan.org"
     },
     {
         "name": "HPB Mainnet",
