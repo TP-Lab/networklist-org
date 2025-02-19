@@ -46340,3 +46340,29 @@
           "ic_home_logo": ""
         }
     }
+{
+          "name": "HyperEVM Mainnet",
+          "chainId": 999,
+          "shortName": "Hyper",
+          "chain": "HyperEVM",
+          "network": "mainnet",
+          "networkId": 999,
+          "nativeCurrency": {
+            "name": "HYPE",
+            "symbol": "HYPE",
+            "decimals": 18
+          },
+          "rpc": [
+            "https://rpc.hyperliquid.xyz/evm",
+          ],
+          "faucets": [],
+          "infoURL": "https://app.hyperliquid.xyz",
+          "app_resource": {
+          "ic_chain_select": "",
+          "ic_chain_unselect": "",
+          "color_chain_bg": "0x0D0C00",
+          "color_chain_text": "0xFFDA00",
+          "ic_chain_unselect_dark":"",
+          "ic_home_logo": ""
+        }
+    }
