@@ -169,7 +169,7 @@
         "app_resource": {
             "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1739940296685.png",
             "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1739940300937.png",
-            "color_chain_bg": "0x6C00F6",
+            "color_chain_bg": "0x072723",
             "color_chain_text": "0xFFFFFF",
             "ic_chain_unselect_dark":"https://hk.tpstatic.net/dapp/tokenpocket-1739940305794.png",
             "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1739944259234.png"
@@ -966,7 +966,9 @@
             "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1735198406390.png",
             "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1735198946146.png",
             "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1735198976376.png",
-            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1735203149793.png"
+            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1735203149793.png",
+            "color_chain_bg": "0x072723",
+            "color_chain_text": "0xFFFFFF"
         }
     },
     {
