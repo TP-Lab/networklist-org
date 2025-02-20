@@ -46400,4 +46400,31 @@
             "ic_chain_unselect_dark":"https://hk.tpstatic.net/dapp/tokenpocket-1739940305794.png",
             "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1739944259234.png"
         }
-    }
+  },
+ {
+        "name": "Monad Testnet",
+        "chainId": 10143,
+        "shortName": "Monad Test",
+        "chain": "Monad",
+        "network": "Testnet",
+        "networkId": 10143,
+        "nativeCurrency": {
+            "name": "MON",
+            "symbol": "MON",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://testnet-rpc.monad.xyz/"
+        ],
+        "faucets": [
+
+        ],
+        "infoURL": "https://testnet.monad.xyz/",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1740027432492.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1740027445030.png",
+            "color_chain_bg": "0x836EF9",
+            "color_chain_text": "0xFFFFFF",
+            "ic_chain_unselect_dark":"https://hk.tpstatic.net/dapp/tokenpocket-1740027450097.png",
+            "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1740027453546.png"
+        }
