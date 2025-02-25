@@ -443,6 +443,39 @@
         }
     },
     {
+        "name": "Vana Mainnet",
+        "chainId": 1480,
+        "shortName": "Vana",
+        "chain": "Vana",
+        "network": "mainnet",
+        "networkId": 1480,
+        "nativeCurrency": {
+            "name": "Vana",
+            "symbol": "VANA",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.vana.org/"
+        ],
+        "faucets": [],
+        "explorers": [
+            {
+                "name": "VanaScan",
+                "url": "https://vanascan.io/",
+                "standard": "EIP3091"
+            }
+        ],
+        "infoURL": "https://vana.org/",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1740454198610.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1740454248235.png",
+            "color_chain_bg": "0x10100E",
+            "color_chain_text": "0xFFFFFF",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1740454209678.png",
+            "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1740454267140.png"
+        }
+    },
+    {
         "name": "Endurance Smart Chain Mainnet",
         "chain": "ACE",
         "rpc": [
@@ -46287,34 +46320,6 @@
         ]
     },
     {
-        "name": "Vana",
-        "chain": "Vana",
-        "rpc": [
-            "https://rpc.vana.org/"
-        ],
-        "nativeCurrency": {
-            "name": "Vana",
-            "symbol": "VANA",
-            "decimals": 18
-        },
-        "faucets": [
-            "https://faucet.vana.org/"
-        ],
-        "infoURL": "https://vana.org",
-        "shortName": "vana",
-        "chainId": 1480,
-        "networkId": 1480,
-        "icon": "vana",
-        "explorers": [
-            {
-                "name": "Vana Block Explorer",
-                "url": "https://vanascan.io",
-                "icon": "vana",
-                "standard": "EIP3091"
-            }
-        ]
-    },
-    {
         "name": "Story Testnet",
         "chain": "Story Testnet",
         "rpc": [
@@ -60211,65 +60216,6 @@
             "type": "L2",
             "chain": "eip155-11155111",
             "bridges": []
-        }
-    },
-    {
-        "name": "Mode",
-        "chain": "ETH",
-        "rpc": [
-            "https://mainnet.mode.network"
-        ],
-        "faucets": [],
-        "nativeCurrency": {
-            "name": "Ether",
-            "symbol": "ETH",
-            "decimals": 18
-        },
-        "infoURL": "https://docs.mode.network/",
-        "shortName": "mode",
-        "chainId": 34443,
-        "networkId": 34443,
-        "icon": "mode",
-        "explorers": [
-            {
-                "name": "modescout",
-                "url": "https://explorer.mode.network",
-                "standard": "none"
-            }
-        ],
-        "app_resource": {
-            "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1709899308595.png",
-            "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1709899325224.png",
-            "color_chain_bg": "0xD9F417",
-            "color_chain_text": "0x000000",
-            "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1709899339092.png",
-            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1709899353868.png"
-        }
-    },
-    {
-        "name": "Vana Mainnet",
-        "chainId": 1480,
-        "shortName": "Vnan",
-        "chain": "Vnan",
-        "network": "mainnet",
-        "networkId": 1480,
-        "nativeCurrency": {
-            "name": "Vana",
-            "symbol": "Vana",
-            "decimals": 18
-        },
-        "rpc": [
-            "https://rpc.vana.org/"
-        ],
-        "faucets": [],
-        "infoURL": "https://vana.org/",
-        "app_resource": {
-            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1740454198610.png",
-            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1740454248235.png",
-            "color_chain_bg": "0x10100E",
-            "color_chain_text": "0xFFFFFF",
-            "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1740454209678.png",
-            "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1740454267140.png"
         }
     }
 ]
