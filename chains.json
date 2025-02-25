@@ -60212,5 +60212,38 @@
             "chain": "eip155-11155111",
             "bridges": []
         }
+    },
+    {
+        "name": "Mode",
+        "chain": "ETH",
+        "rpc": [
+            "https://mainnet.mode.network"
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "infoURL": "https://docs.mode.network/",
+        "shortName": "mode",
+        "chainId": 34443,
+        "networkId": 34443,
+        "icon": "mode",
+        "explorers": [
+            {
+                "name": "modescout",
+                "url": "https://explorer.mode.network",
+                "standard": "none"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1709899308595.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1709899325224.png",
+            "color_chain_bg": "0xD9F417",
+            "color_chain_text": "0x000000",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1709899339092.png",
+            "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1709899353868.png"
+        }
     }
 ]
