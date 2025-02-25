@@ -443,6 +443,39 @@
         }
     },
     {
+        "name": "Vana Mainnet",
+        "chainId": 1480,
+        "shortName": "Vana",
+        "chain": "Vana",
+        "network": "mainnet",
+        "networkId": 1480,
+        "nativeCurrency": {
+            "name": "Vana",
+            "symbol": "VANA",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.vana.org/"
+        ],
+        "faucets": [],
+        "explorers": [
+            {
+                "name": "VanaScan",
+                "url": "https://vanascan.io/",
+                "standard": "EIP3091"
+            }
+        ],
+        "infoURL": "https://vana.org/",
+        "app_resource": {
+            "ic_chain_select": "https://hk.tpstatic.net/dapp/tokenpocket-1740454198610.png",
+            "ic_chain_unselect": "https://hk.tpstatic.net/dapp/tokenpocket-1740454248235.png",
+            "color_chain_bg": "0x10100E",
+            "color_chain_text": "0xFFFFFF",
+            "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1740454209678.png",
+            "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1740454267140.png"
+        }
+    },
+    {
         "name": "Endurance Smart Chain Mainnet",
         "chain": "ACE",
         "rpc": [
@@ -46284,34 +46317,6 @@
         },
         "redFlags": [
             "reusedChainId"
-        ]
-    },
-    {
-        "name": "Vana",
-        "chain": "Vana",
-        "rpc": [
-            "https://rpc.vana.org/"
-        ],
-        "nativeCurrency": {
-            "name": "Vana",
-            "symbol": "VANA",
-            "decimals": 18
-        },
-        "faucets": [
-            "https://faucet.vana.org/"
-        ],
-        "infoURL": "https://vana.org",
-        "shortName": "vana",
-        "chainId": 1480,
-        "networkId": 1480,
-        "icon": "vana",
-        "explorers": [
-            {
-                "name": "Vana Block Explorer",
-                "url": "https://vanascan.io",
-                "icon": "vana",
-                "standard": "EIP3091"
-            }
         ]
     },
     {
