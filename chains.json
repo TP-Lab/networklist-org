@@ -60217,5 +60217,21 @@
             "chain": "eip155-11155111",
             "bridges": []
         }
-    }
+    },
+    {
+        "name": "DeepBrainChain Mainnet",
+        "chainId": 19880818,
+        "shortName": "dbc",
+        "chain": "DBC",
+        "network": "mainnet",
+        "networkId": 19880818,
+        "nativeCurrency": {
+          "name": "DBC",
+          "symbol": "DBC",
+          "decimals": 18
+        },
+        "rpc": ["https://rpc.dbcwallet.io"],
+        "faucets": [],
+        "infoURL": "https://www.dbcscan.io"
+      }
 ]
