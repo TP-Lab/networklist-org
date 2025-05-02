@@ -63255,5 +63255,24 @@
         "chainId": 428962654539583,
         "networkId": 428962654539583,
         "explorers": []
+    },
+    {
+        "name": "CryptoZR",
+        "chain": "CryptoZR",
+        "icon": "CryptoZR",
+        "rpc": [
+            "https://doubun.com"
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "ART",
+            "symbol": "ART",
+            "decimals": 18
+        },
+        "shortName": "CryptoZR",
+        "infoURL": "",
+        "chainId": 7198,
+        "networkId": 7198,
+        "explorers": []
     }
 ]
