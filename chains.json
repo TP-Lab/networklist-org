@@ -64176,3 +64176,36 @@
         }
     }
 ]
+  {
+        "name": "Mars Chain",
+        "chainId": 704851,
+        "shortName": "Mars",
+        "chain": "Mars",
+        "network": "mainnet",
+        "networkId": 704851,
+        "nativeCurrency": {
+            "name": "MarsC",
+            "symbol": "MarsC",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.mars-scan.io"
+        ],
+        "faucets": [],
+        "explorers": [
+            {
+                "name": "Mars Scan",
+                "url": "https://explorer.mars-chain.io/",
+                "standard": "EIP3091"
+            }
+        ],
+        "infoURL": "https://www.mars-chain.io/",
+        "app_resource": {
+            "ic_chain_select": "https://www.mars-chain.io/icon/98610.png",
+            "ic_chain_unselect": "https://www.mars-chain.io/icon/8235.png",
+            "color_chain_bg": "0x10100E",
+            "color_chain_text": "0xFFFFFF",
+            "ic_chain_unselect_dark": "https://www.mars-chain.io/icon/9678.png",
+            "ic_home_logo": "https://www.mars-chain.io/icon/7140.png"
+        }
+    },
