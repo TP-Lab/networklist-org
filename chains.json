@@ -51095,7 +51095,8 @@
         "chain": "XOC",
         "icon": "Xonechain",
         "rpc": [
-            "https://rpc.xone.org"
+            "https://rpc.xone.org",
+            "wss://rpc-wss.xone.org"
         ],
         "features": [
             {
@@ -51124,7 +51125,15 @@
                 "icon": "Xonescan",
                 "standard": "EIP3091"
             }
-        ]
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreibsqlpmkyb6kidr642edrporjm47k23a7xax5tczi7gdqw7m5kp6y",
+            "ic_chain_unselect": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreihb22rovkb6xcvsi6btlnff7y3ncdq5u6ea3jqjylczpnx5s34n2u",
+            "ic_chain_unselect_dark": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreihb22rovkb6xcvsi6btlnff7y3ncdq5u6ea3jqjylczpnx5s34n2u",
+            "color_chain_bg": "0xFF0420",
+            "color_chain_text": "0xFFFFFF",
+            "ic_home_logo": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreihb22rovkb6xcvsi6btlnff7y3ncdq5u6ea3jqjylczpnx5s34n2u"
+            }
     },
     {
         "name": "PayNetwork Mainnet",
@@ -62519,7 +62528,8 @@
         "rpc": [
             "https://rpc-testnet.xone.plus",
             "https://rpc-testnet.xone.org",
-            "https://rpc-testnet.knight.center"
+            "https://rpc-testnet.knight.center",
+            "wss://wss-rpc-testnet.xone.org"
         ],
         "features": [
             {
@@ -62548,7 +62558,15 @@
                 "icon": "testnet-xscscan",
                 "standard": "EIP3091"
             }
-        ]
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreibsqlpmkyb6kidr642edrporjm47k23a7xax5tczi7gdqw7m5kp6y",
+            "ic_chain_unselect": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreihb22rovkb6xcvsi6btlnff7y3ncdq5u6ea3jqjylczpnx5s34n2u",
+            "ic_chain_unselect_dark": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreihb22rovkb6xcvsi6btlnff7y3ncdq5u6ea3jqjylczpnx5s34n2u",
+            "color_chain_bg": "0xFF0420",
+            "color_chain_text": "0xFFFFFF",
+            "ic_home_logo": "https://rose-petite-porcupine-710.mypinata.cloud/ipfs/bafkreihb22rovkb6xcvsi6btlnff7y3ncdq5u6ea3jqjylczpnx5s34n2u"
+            }
     },
     {
         "name": "citronus-citro",
@@ -67517,6 +67535,397 @@
             "color_chain_text": "0xFFFFFF",
             "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1751806898481.png",
             "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1751806917647.png"
+        }
+    },
+    {
+        "name": "Matchain",
+        "title": "Matchain Mainnet",
+        "chain": "matchain",
+        "icon": "matchain",
+        "rpc": [
+        "https://rpc.matchain.io"
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18
+        },
+        "infoURL": "https://www.matchain.io/",
+        "shortName": "matchain",
+        "chainId": 698,
+        "networkId": 698,
+        "explorers": [
+        {
+            "name": "Matchain scan",
+            "url": "https://matchscan.io",
+            "standard": "EIP3091"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1725341898223.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1725341881501.png",
+        "color_chain_bg": "0x000000",
+        "color_chain_text": "0xFFA723",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1725341914873.png",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1725341927989.png"
+        }
+    },
+    {
+        "name": "Phecda Mainnet",
+        "chainId": 8188,
+        "shortName": "PCD",
+        "chain": "PCD",
+        "network": "mainnet",
+        "networkId": 8188,
+        "nativeCurrency": {
+        "name": "Phecda",
+        "symbol": "PCD",
+        "decimals": 18
+        },
+        "rpc": [
+        "https://rpc.pcddao.com",
+        "wss://rpc.pcddao.com/wss",
+        "https://validator-01.pcddao.com",
+        "https://validator-02.pcddao.com",
+        "https://validator-03.pcddao.com",
+        "https://validator-04.pcddao.com",
+        "https://validator-05.pcddao.com",
+        "https://validator-06.pcddao.com",
+        "https://validator-07.pcddao.com",
+        "https://validator-08.pcddao.com",
+        "https://validator-09.pcddao.com",
+        "https://validator-10.pcddao.com",
+        "https://validator-11.pcddao.com",
+        "https://validator-12.pcddao.com",
+        "https://validator-13.pcddao.com",
+        "https://validator-14.pcddao.com",
+        "https://validator-15.pcddao.com",
+        "https://validator-16.pcddao.com",
+        "https://validator-17.pcddao.com",
+        "https://validator-18.pcddao.com",
+        "https://validator-19.pcddao.com",
+        "https://validator-20.pcddao.com",
+        "https://validator-21.pcddao.com",
+        "https://validator-22.pcddao.com",
+        "https://validator-23.pcddao.com",
+        "https://validator-24.pcddao.com",
+        "https://validator-25.pcddao.com",
+        "https://validator-26.pcddao.com",
+        "https://validator-27.pcddao.com",
+        "https://validator-28.pcddao.com",
+        "https://validator-29.pcddao.com",
+        "https://validator-30.pcddao.com",
+        "https://validator-31.pcddao.com",
+        "https://validator-32.pcddao.com",
+        "https://validator-33.pcddao.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://www.pcddao.com",
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1726129442644.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1726129467588.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1726129484449.png",
+        "color_chain_bg": "0x000000",
+        "color_chain_text": "0xFFFFFF",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1726129520717.png"
+        },
+        "explorers": [
+        {
+            "name": "Phecda Chain Explorer",
+            "icon": "PCD",
+            "url": "https://pcdscan.pcddao.com",
+            "standard": "EIP3091"
+        }
+        ]
+    },
+    {
+        "name": "MAK Chain",
+        "chainId": 69916,
+        "shortName": "mak",
+        "chain": "MAK",
+        "network": "mainnet",
+        "networkId": 69916,
+        "nativeCurrency": {
+        "name": "MAK",
+        "symbol": "MAK",
+        "decimals": 18
+        },
+        "rpc": [
+        "https://node.mak.top"
+        ],
+        "faucets": [],
+        "infoURL": "https://makchain.com",
+        "explorers": [
+        {
+            "name": "MakScan",
+            "url": "https://scan.mak.top",
+            "standard": "EIP3091",
+            "icon": "https://hk.tpstatic.net/token/tokenpocket-1727683950446.png"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1727683950446.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1727683925035.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1727683937912.png",
+        "color_chain_bg": "0x000000",
+        "color_chain_text": "0xF8F8FF",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1727683966410.png"
+        }
+    },
+    {
+        "name": "Unichain Sepolia",
+        "chainId": 1301,
+        "shortName": "unichainsepolia",
+        "chain": "Unichain Sepolia",
+        "network": "Sepolia",
+        "networkId": 1301,
+        "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
+        },
+        "rpc": [
+        "https://sepolia.unichain.org"
+        ],
+        "faucets": [],
+        "infoURL": "https://www.unichain.org/",
+        "explorers": [
+        {
+            "name": "Unichain Sepolia Testnet Explorer",
+            "url": "https://sepolia.uniscan.xyz/",
+            "standard": "EIP3091",
+            "icon": "https://hk.tpstatic.net/token/tokenpocket-1728614844418.png"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1728614844418.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1728614859885.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1728614869904.png",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1728614883541.png"
+        }
+    },
+    {
+        "name": "World Chain",
+        "chainId": 480,
+        "shortName": "worldchain",
+        "chain": "World Chain",
+        "network": "Mainnet",
+        "networkId": 480,
+        "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logo": "https://hk.tpstatic.net/token/tokenpocket-1654746200716.png"
+        },
+        "rpc": [
+        "https://worldchain-mainnet.g.alchemy.com/public"
+        ],
+        "faucets": [],
+        "infoURL": "https://worldcoin.org/world-chain",
+        "explorers": [
+        {
+            "name": "World Chain explorer",
+            "url": "https://worldchain-mainnet.explorer.alchemy.com/",
+            "standard": "EIP3091",
+            "icon": "https://hk.tpstatic.net/token/tokenpocket-1729148431568.png"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729148431568.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729148819446.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729148859843.png",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729148881406.png"
+        }
+    },
+    {
+        "name": "ApeChain",
+        "chainId": 33139,
+        "shortName": "ApeChain",
+        "chain": "ApeChain",
+        "network": "mainnet",
+        "networkId": 33139,
+        "nativeCurrency": {
+        "name": "APE",
+        "symbol": "APE",
+        "decimals": 18,
+        "logo": "https://hk.tpstatic.net/token/tokenpocket-1729491264197.jpeg"
+        },
+        "rpc": [
+        "https://apechain.calderachain.xyz/http"
+        ],
+        "infoURL": "https://apechain.com/",
+        "explorers": [
+        {
+            "name": "apechain explorer",
+            "url": "https://apechain.calderaexplorer.xyz/",
+            "standard": "EIP3091",
+            "icon": "https://hk.tpstatic.net/token/tokenpocket-1729482969925.png"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729482969925.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729482978504.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729482986993.png",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729482994467.png"
+        }
+    },
+    {
+        "name": "Morph",
+        "chainId": 2818,
+        "shortName": "morph",
+        "chain": "Morph",
+        "network": "mainnet",
+        "networkId": 2818,
+        "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "logo": "https://hk.tpstatic.net/token/tokenpocket-1617349051539.png"
+        },
+        "rpc": [
+        "https://rpc.morphl2.io"
+        ],
+        "infoURL": "https://www.morphl2.io/",
+        "explorers": [
+        {
+            "name": "morph explorer",
+            "url": "https://explorer.morphl2.io",
+            "standard": "EIP3091",
+            "icon": "https://hk.tpstatic.net/token/tokenpocket-1729590965553.png"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729590965553.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729590979115.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729590988846.png",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729590999996.png"
+        }
+    },
+    {
+        "name": "exsat",
+        "chainId": 7200,
+        "shortName": "exsat",
+        "chain": "exsat",
+        "network": "mainnet",
+        "networkId": 7200,
+        "nativeCurrency": {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "decimals": 18,
+        "logo": "https://hk.tpstatic.net/token/tokenpocket-1617347227526.png"
+        },
+        "rpc": [
+        "https://evm.exsat.network/"
+        ],
+        "explorers": [
+        {
+            "name": "exsat explorer",
+            "url": "https://scan.exsat.network/",
+            "standard": "EIP3091"
+        }
+        ]
+    },
+    {
+        "name": "Gravity",
+        "chainId": 1625,
+        "shortName": "gravity",
+        "chain": "gravity",
+        "network": " Alpha Mainnet",
+        "networkId": 1625,
+        "nativeCurrency": {
+        "name": "G",
+        "symbol": "G",
+        "decimals": 18,
+        "logo": "https://hk.tpstatic.net/token/tokenpocket-1730362119755.png"
+        },
+        "rpc": [
+        "https://rpc.gravity.xyz"
+        ],
+        "explorers": [
+        {
+            "name": "Gravity Alpha Mainnet Blockchain Explorer",
+            "url": "https://gscan.xyz/",
+            "standard": "EIP3091"
+        }
+        ],
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1730362119755.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1730359767207.png",
+        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1730359793402.png",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1730359801970.png"
+        }
+    },
+    {
+        "name": "Lumia Prism",
+        "chainId": 994873017,
+        "shortName": "Lumia",
+        "chain": "Lumia",
+        "network": "mainnet",
+        "networkId": 994873017,
+        "nativeCurrency": {
+        "name": "LUMIA",
+        "symbol": "LUMIA",
+        "decimals": 18
+        },
+        "rpc": [
+        "https://mainnet-rpc.lumia.org"
+        ],
+        "explorers": [
+        {
+            "name": "Lumia explorer",
+            "url": "https://explorer.lumia.org/",
+            "standard": "EIP3091"
+        }
+        ]
+    },
+    {
+        "name": "SlerfChain Mainnet",
+        "chainId": 918,
+        "shortName": "SlerfChain",
+        "chain": "SlerfChain",
+        "network": "mainnet",
+        "networkId": 918,
+        "nativeCurrency": {
+        "name": "WSlerf",
+        "symbol": "WSlerf",
+        "decimals": 18
+        },
+        "rpc": [
+        "https://rpc.slerfchain.xyz"
+        ],
+        "explorers": [
+        {
+            "name": "slerfchain explorer",
+            "url": "https://scan.slerfchain.xyz",
+            "standard": "EIP3091"
+        }
+        ]
+    },
+    {
+        "name": "DuckChain",
+        "chainId": 5545,
+        "shortName": "DuckChain",
+        "chain": "DuckChain",
+        "network": "Mainnet",
+        "networkId": 5545,
+        "nativeCurrency": {
+        "name": "TON",
+        "symbol": "TON",
+        "decimals": 18
+        },
+        "rpc": [
+        "https://rpc.duckchain.io"
+        ],
+        "faucets": [],
+        "infoURL": "https://testnet-rpc-hk.duckchain.io",
+        "app_resource": {
+        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1731591999274.png",
+        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1731591999274.png",
+        "color_chain_bg": "0x58B2AF",
+        "color_chain_text": "0xFFFFFF",
+        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1731592251204.jpg"
         }
     }
 ]
