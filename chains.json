@@ -67519,4 +67519,31 @@
             "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1751806917647.png"
         }
     }
+,
+    {
+    "name": "DaVinci",
+    "chainId": 293,
+    "shortName": "dcoin",
+    "chain": "DCOIN",
+    "network": "mainnet",
+    "networkId": 293,
+    "nativeCurrency": {
+        "name": "DaVinci",
+        "symbol": "DCOIN",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://rpc.davinci.bz	",   
+    ],
+    "faucets": [],
+    "infoURL": "https://davinci.bz/",
+    "app_resource": {
+        "ic_chain_select": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg",//network icon selected status
+        "ic_chain_unselect": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg"
+        "ic_chain_unselect_dark": "https://raw.githubusercontent.com/davinchi-protocol/branding-kit/refs/heads/main/logo/davinci-black.svg",//network icon unselected status in dark mode
+        "color_chain_bg": "0x1A202C",//wallet card backgroud color
+        "color_chain_text": "0xFFFFFF",//wallet card text color
+        "ic_home_logo":""//logo on top of asset page
+    }
+}
 ]
