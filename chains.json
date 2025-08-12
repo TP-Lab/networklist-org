@@ -67519,4 +67519,28 @@
             "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1751806917647.png"
         }
     }
+
 ]
+{
+        "name": "Bitsoley Chain",
+        "chain": "Bitsoley",
+        "icon": "Bitsoley",
+        "rpc": [
+            "https://rpc.bitsoley.com"
+        ],
+        "faucets": [
+
+        ],
+        "nativeCurrency": {
+            "name": "BitSoley",
+            "symbol": "BSO",
+            "decimals": 18
+        },
+        "shortName": "Bitsoley",
+        "infoURL": "https://bitsoley.com",
+        "chainId": 216721,
+        "networkId": 216721,
+        "explorers": "https://bitsoley.com/explorer" [ 
+
+        ]
+    },
