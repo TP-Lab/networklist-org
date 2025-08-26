@@ -67518,5 +67518,35 @@
             "ic_chain_unselect_dark": "https://hk.tpstatic.net/dapp/tokenpocket-1751806898481.png",
             "ic_home_logo": "https://hk.tpstatic.net/dapp/tokenpocket-1751806917647.png"
         }
+    },
+    {
+    "name": "MixMax Chain",
+    "chainId": 79,
+    "shortName": "MC",
+    "chain": "MixMax",
+    "network": "mainnet",
+    "networkId": 79,
+    "nativeCurrency": {
+        "name": "MC",
+        "symbol": "MC",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://chain.mixmax.cc",
+        "https://chain5.mixmax.cc",
+        "https://chain-1.mmchain.cc",
+        "https://chain3.mixmax.cc"
+    ],
+    "faucets": [],
+    "infoURL": "https://www.mixmax.pro/white-paper",
+    "app_resource": {
+        "ic_chain_select": "https://pic.mixmax.cc/ic_chain_select.png",
+        "ic_chain_unselect": "https://pic.mixmax.cc/ic_chain_unselect.png",
+        "ic_chain_unselect_dark": "https://pic.mixmax.cc/ic_chain_unselect.png",
+        "color_chain_bg": "0x4E2700",
+        "color_chain_text": "0xFFFFFF",
+        "ic_home_logo":"https://pic.mixmax.cc/ic_chain_select.png"
     }
+}
+
 ]
