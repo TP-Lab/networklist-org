@@ -67547,6 +67547,33 @@
         "color_chain_text": "0xFFFFFF",
         "ic_home_logo":"https://pic.mixmax.cc/ic_chain_select.png"
     }
+    },
+{
+    "name": "Mova Chain",
+    "chainId": 61900,
+    "shortName": "Mova",
+    "chain": "Mova",
+    "network": "mainnet",
+    "networkId": 61900,
+    "nativeCurrency": {
+        "name": "MOVA",
+        "symbol": "MOVA",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://rpc.movachain.com",
+       
+    ],
+    "faucets": [],
+    "infoURL": "https://movachain.com",
+    "app_resource": {
+        "ic_chain_select": "https://asset.movachain.com/logo/Mova-TP-Icon-01.png", 
+        "ic_chain_unselect": "https://asset.movachain.com/logo/Mova-TP-Icon-04.png", 
+        "ic_chain_unselect_dark": "https://asset.movachain.com/logo/Mova-TP-Icon-03.png",
+        "color_chain_bg": "0xC0FF72", 
+        "color_chain_text": "0xFFFFFF", 
+        "ic_home_logo":"https://asset.movachain.com/logo/Mova-TP-Icon-01.png" 
+    }
 }
 
-]
+
