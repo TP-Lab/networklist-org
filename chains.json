@@ -16,11 +16,11 @@
     "faucets": [],
     "infoURL": "https://scan.popchain.ai/popchain",
     "app_resource": {
-        "ic_chain_select": "https://popimg.oss-cn-hongkong.aliyuncs.com/selected.png",//network icon selected status
-        "ic_chain_unselect": "https://popimg.oss-cn-hongkong.aliyuncs.com/unselected.png",//network icon unselected status in light mode
-        "ic_chain_unselect_dark": "https://popimg.oss-cn-hongkong.aliyuncs.com/dark.png",//network icon unselected status in dark mode
-        "color_chain_bg": "0x58B2AF",//wallet card backgroud color
-        "color_chain_text": "0xFFFFFF",//wallet card text color
-        "ic_home_logo":"https://popimg.oss-cn-hongkong.aliyuncs.com/coin.png"//logo on top of asset page
+        "ic_chain_select": "https://popimg.oss-cn-hongkong.aliyuncs.com/selected.png",
+        "ic_chain_unselect": "https://popimg.oss-cn-hongkong.aliyuncs.com/unselected.png",
+        "ic_chain_unselect_dark": "https://popimg.oss-cn-hongkong.aliyuncs.com/dark.png",
+        "color_chain_bg": "0x58B2AF",
+        "color_chain_text": "0xFFFFFF",
+        "ic_home_logo":"https://popimg.oss-cn-hongkong.aliyuncs.com/coin.png"
     }
 }
