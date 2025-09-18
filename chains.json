@@ -63439,7 +63439,7 @@
             "shortName": "Rwac",
             "chain": "Rwac",
             "network": "mainnet",
-            "networkId": 800,
+            "networkId": 8088,
             "nativeCurrency": {
                 "name": "RWAC",
                 "symbol": "RWAC",
