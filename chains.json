@@ -63432,6 +63432,32 @@
             "color_chain_bg": "0xC0FF72",
             "color_chain_text": "0xFFFFFF",
             "ic_home_logo": "https://asset.movachain.com/logo/Mova-TP-Icon-01.png"
+        },
+	{
+            "name": "Rwac Chain",
+            "chainId": 8088,
+            "shortName": "Rwac",
+            "chain": "Rwac",
+            "network": "mainnet",
+            "networkId": 8088,
+            "nativeCurrency": {
+                "name": "RWAC",
+                "symbol": "RWAC",
+                "decimals": 18
+            },
+            "rpc": [
+                "https://node1.rwaguoji.com"
+            ],
+            "faucets": [],
+            "infoURL": "https://rwac.rwaguoji.com",
+            "app_resource": {
+                "ic_chain_select": "https://rwac.rwaguoji.com/logo/Rwac-TP-Icon-01.png",
+                "ic_chain_unselect": "https://rwac.rwaguoji.com/logo/Rwac-TP-Icon-04.png",
+                "ic_chain_unselect_dark": "https://rwac.rwaguoji.com/logo/Rwac-TP-Icon-03.png",
+                "color_chain_bg": "0xC0FF72",
+                "color_chain_text": "0xFFFFFF",
+                "ic_home_logo": "https://rwac.rwaguoji.com/logo/Rwac-TP-Icon-01.png"
+            }
         }
     }
 ]
