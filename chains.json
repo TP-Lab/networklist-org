@@ -63467,4 +63467,34 @@
             "ic_home_logo": "http://icon.nexuschain.cc/night-m.png"
         }
     }
+
 ]
+{
+        "name": "Bitsoley Chain",
+        "chainId": 216721,
+        "shortName": "BSO",
+        "chain": "Bitsoley",
+        "network": "mainnet",
+        "networkId": 216721,
+        "nativeCurrency": {
+            "name": "Bitsoley",
+            "symbol": "BSO",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.bitsoley.com"
+        ],
+        "faucets": [
+
+        ],
+        "explorers": [
+            {
+                "name": "Bitsoley Chain",
+                "url": "https://bitsoley.com/explorer",
+                "standard": "ERC-20"
+            }
+        ],
+     "infoURL": "https://bitsoley.com",
+        
+        }
+    }
