@@ -63501,7 +63501,51 @@
         "color_chain_text": "0x000000",
         "ic_home_logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg"
     }
+},{
+  "name": "BOT Chain",
+  "chainId": 677,
+  "shortName": "bot",
+  "chain": "BOT",
+  "network": "mainnet",
+  "networkId": 677,
+  "nativeCurrency": {
+    "name": "BOT",
+    "symbol": "BOT",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.botchain.ai",
+    "http://rpc.kfeeswwz.cn",
+    "http://rpc.amdixawp.cn",
+    "http://rpc.jnhkpbxr.cn",
+    "http://rpc.rpynemmx.cn",
+    "http://rpc.kzrmeznc.cn"
+  ],
+  "faucets": [],
+  "infoURL": "https://scan.botchain.ai",
+  "explorers": [
+    {
+      "name": "BOT scan",
+      "url": "https://scan.botchain.ai",
+      "standard": "EIP3091"
+    }
+  ],
+  "swap": {
+    "website": "https://dex.botchain.ai/",
+    "factory": "0x1C51c173323ec11BB4e3C4fD2314c225Dc4b5419",
+    "swapRouter": "0x07032d47A1b9f8460cBeE9dC17c1d3E438693929",
+    "sampleTransaction": "https://scan.botchain.ai/tx/0x6f7e9686f5cda6981ecb756ed23ad15697d69625c57cc414556951c2aa3f79e7"
+  },
+  "tokenLogo": "https://ibb.co/6RYKvtFP",
+  "chainLogo": "https://ibb.co/DHCpPcd0",
+  "app_resource": {
+    "ic_chain_select": "https://ibb.co/DHCpPcd0",
+    "ic_chain_unselect": "https://ibb.co/DHCpPcd0",
+    "color_chain_bg": "0x14DCAC",
+    "color_chain_text": "0xFFFFFF",
+    "ic_home_logo": "https://ibb.co/6RYKvtFP"
+  }
 }
-
 ]
+
 
