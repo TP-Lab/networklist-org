@@ -1,5 +1,5 @@
 {
-    "name": "AOU Chain",
+    "name": "AOU Chain ",
     "chainId": 2236,
     "shortName": "AOU",
     "chain": "AOU",
@@ -11,16 +11,16 @@
         "decimals": 18
     },
     "rpc": [
-        "https://tesetnet-rpc.aouscan.com"
+        "https://tesetnet-rpc.aouscan.com",
     ],
     "faucets": [],
     "infoURL": "https://www.aoulink.io",
     "app_resource": {
-        "ic_chain_select": "https://www.aoulink.io/aou.png",
-        "ic_chain_unselect": "https://www.aoulink.io/aou.png",
-        "ic_chain_unselect_dark": "",
-        "color_chain_bg": "0x58B2AF",
-        "color_chain_text": "0xFFFFFF",
-        "ic_home_logo": ""
+        "ic_chain_select": "https://www.aoulink.io/aou.png", 
+        "ic_chain_unselect": "https://www.aoulink.io/aou.png", 
+        "ic_chain_unselect_dark": "", 
+        "color_chain_bg": "0x58B2AF", 
+        "color_chain_text": "0xFFFFFF", 
+        "ic_home_logo":"https://www.aoulink.io/aou.png" 
     }
 }
