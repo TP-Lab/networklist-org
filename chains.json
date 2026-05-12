@@ -1,33 +1,26 @@
-{\rtf1\ansi\ansicpg936\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \{\
-    "name": "AOU Chain ",\
-    "chainId": 2236,\
-    "shortName": "AOU",\
-    "chain": "AOU",\
-    "network": "mainnet",\
-    "networkId": 2236,\
-    "nativeCurrency": \{\
-        "name": "AOU",\
-        "symbol": "AOU",\
-        "decimals": 18\
-    \},\
-    "rpc": [\
-        "https://tesetnet-rpc.aouscan.com",\
-    ],\
-    "faucets": [],\
-    "infoURL": "https://www.aoulink.io",\
-    "app_resource": \{\
-        "ic_chain_select": "https://www.aoulink.io/aou.png", //\uc0\u38142 icon\u36873 \u20013 \u29366 \u24577 \
-        "ic_chain_unselect": "https://www.aoulink.io/aou.png", //\uc0\u38142 icon\u30333 \u22825 \u27169 \u24335 \u30340 \u26410 \u36873 \u25321 \u29366 \u24577 \
-        "ic_chain_unselect_dark": "", //\uc0\u38142 icon\u40657 \u22812 \u27169 \u24335 \u30340 \u26410 \u36873 \u25321 \u29366 \u24577 \
-        "color_chain_bg": "0x58B2AF", //\uc0\u36873 \u25321 \u38065 \u21253 \u26102 \u65292 \u21345 \u29255 \u30340 \u32972 \u26223 \u39068 \u33394 \
-        "color_chain_text": "0xFFFFFF", //\uc0\u36873 \u25321 \u38065 \u21253 \u26102 \u65292 \u21345 \u29255 \u30340 \u25991 \u23383 \u39068 \u33394 \
-        "ic_home_logo":"https://www.aoulink.io/aou.png" //\uc0\u39318 \u39029 \u21345 \u29255 \u26174 \u31034 \u30340 logo\
-    \}\
-\}}
+{
+    "name": "AOU Chain ",
+    "chainId": 2236,
+    "shortName": "AOU",
+    "chain": "AOU",
+    "network": "mainnet",
+    "networkId": 2236,
+    "nativeCurrency": {
+        "name": "AOU",
+        "symbol": "AOU",
+        "decimals": 18
+    },
+    "rpc": [
+        "https://tesetnet-rpc.aouscan.com",
+    ],
+    "faucets": [],
+    "infoURL": "https://www.aoulink.io",
+    "app_resource": {
+        "ic_chain_select": "https://www.aoulink.io/aou.png", //链icon选中状态
+        "ic_chain_unselect": "https://www.aoulink.io/aou.png", //链icon白天模式的未选择状态
+        "ic_chain_unselect_dark": "", //链icon黑夜模式的未选择状态
+        "color_chain_bg": "0x58B2AF", //选择钱包时，卡片的背景颜色
+        "color_chain_text": "0xFFFFFF", //选择钱包时，卡片的文字颜色
+        "ic_home_logo":"https://www.aoulink.io/aou.png" //首页卡片显示的logo
+    }
+}
