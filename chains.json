@@ -11,7 +11,7 @@
         "decimals": 18
     },
     "rpc": [
-        "https://tesetnet-rpc.aouscan.com",
+        "https://testnet-rpc.aouscan.com",
     ],
     "faucets": [],
     "infoURL": "https://www.aoulink.io",
