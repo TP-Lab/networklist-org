@@ -63501,7 +63501,40 @@
         "color_chain_text": "0x000000",
         "ic_home_logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg"
     }
-}
+},
+{
+      "name": "Draconis Production Network",
+      "chainId": 13561,
+      "shortName": "das",
+      "chain": "Draconis",
+      "network": "mainnet",
+      "networkId": 13561,
+      "nativeCurrency": {
+        "name": "Draconis",
+        "symbol": "DAS",
+        "decimals": 18
+      },
+      "rpc": [
+        "https://node1.draconis.foundation"
+      ],
+      "faucets": [],
+      "infoURL": "https://draconiscan.io",
+      "explorers": [
+        {
+          "name": "DraconisScan",
+          "url": "https://draconiscan.io",
+          "standard": "EIP3091"
+        }
+      ],
+      "app_resource": {
+        "ic_chain_select": "https://draconis.foundation/logo.png",
+        "ic_chain_unselect": "https://draconis.foundation/logo.png",
+        "ic_chain_unselect_dark": "https://draconis.foundation/logo.png",
+        "ic_home_logo": "https://draconis.foundation/logo.png",
+        "color_chain_bg": "#0D0E12",
+        "color_chain_text": "#66FFFF"
+      }
+    }
 
 ]
 
