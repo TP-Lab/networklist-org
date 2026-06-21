@@ -1,4 +1,20 @@
-[
+{
+    "name": "FUSNChain",
+    "chainId": 8370,
+    "shortName": "FUSN",
+    "chain": "FUSN",
+    "network": "mainnet",
+    "networkId": 100,
+    "nativeCurrency": {
+        "name": "FUSN",
+        "symbol": "FUSN",
+        "decimals": 18
+    },
+    "rpc": [
+        "(https://rpc.fusn.network/)",
+        "https://rpc.fusnnetwork.org/)",
+        "(https://rpc.fusnnetwork.uk/)",
+
     {
         "name": "Ethereum Mainnet",
         "chainId": 1,
