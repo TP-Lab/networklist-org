@@ -1,5 +1,34 @@
 [
     {
+        "name": "YNX Testnet",
+        "chainId": 6423,
+        "shortName": "ynxtest",
+        "chain": "YNX",
+        "network": "testnet",
+        "networkId": 6423,
+        "nativeCurrency": {
+            "name": "YNXT",
+            "symbol": "YNXT",
+            "decimals": 18,
+            "logo": "https://raw.githubusercontent.com/JiahaoAlbus/YNX-Chain-website/main/public/ynx-logo.png"
+        },
+        "rpc": [
+            "https://evm.ynxweb4.com"
+        ],
+        "faucets": [
+            "https://www.ynxweb4.com/dapp/faucet"
+        ],
+        "infoURL": "https://ynxweb4.com",
+        "icon": "ynx",
+        "explorers": [
+            {
+                "name": "YNX Explorer",
+                "url": "https://explorer.ynxweb4.com",
+                "standard": "EIP3091"
+            }
+        ]
+    },
+    {
         "name": "Ethereum Mainnet",
         "chainId": 1,
         "shortName": "eth",
