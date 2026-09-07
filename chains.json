@@ -63533,6 +63533,39 @@
     "color_chain_bg": "0x000000",
     "color_chain_text": "0xFFFFFF",
     "ic_home_logo": "https://www.aoulink.io/aou.png"
+  },
+{
+  "name": "WIN Chain",
+  "chainId": 86233268,
+  "shortName": "winchain",
+  "chain": "WIN",
+  "network": "mainnet",
+  "networkId": 86233268,
+  "nativeCurrency": {
+    "name": "WIN",
+    "symbol": "WIN",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.winchain.win",
+    "https://rpc2.winchain.win"
+  ],
+  "faucets": [],
+  "explorers": [
+    {
+      "name": "WINScan",
+      "url": "https://winscan.co",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://winchain.win",
+  "app_resource": {
+    "ic_chain_select": "https://photos.pinksale.finance/file/pinksale-logo-upload/1788793591219-570848754428a068137b1eb99bf4b1fb.jpg",
+    "ic_chain_unselect": "https://photos.pinksale.finance/file/pinksale-logo-upload/1788793591219-570848754428a068137b1eb99bf4b1fb.jpg",
+    "ic_chain_unselect_dark": "https://photos.pinksale.finance/file/pinksale-logo-upload/1788793591219-570848754428a068137b1eb99bf4b1fb.jpg",
+    "color_chain_bg": "0xFFFFFF",
+    "color_chain_text": "0x000000",
+    "ic_home_logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1788793591219-570848754428a068137b1eb99bf4b1fb.jpg"
   }
 }
 
