@@ -1181,7 +1181,7 @@
         "network": "goerli",
         "networkId": 5,
         "nativeCurrency": {
-            "name": "Görli Ether",
+            "name": "G\u00f6rli Ether",
             "symbol": "GOR",
             "decimals": 18
         },
@@ -2427,7 +2427,7 @@
         "network": "goerli",
         "networkId": 420,
         "nativeCurrency": {
-            "name": "Görli Ether",
+            "name": "G\u00f6rli Ether",
             "symbol": "GOR",
             "decimals": 18
         },
@@ -3970,7 +3970,7 @@
         ],
         "faucets": [],
         "nativeCurrency": {
-            "name": "Pangoro Network Native Token”",
+            "name": "Pangoro Network Native Token\u201d",
             "symbol": "ORING",
             "decimals": 18
         },
@@ -9566,7 +9566,7 @@
         "faucets": [],
         "nativeCurrency": {
             "name": "PHI",
-            "symbol": "Φ",
+            "symbol": "\u03a6",
             "decimals": 18
         },
         "infoURL": "https://phi.network",
@@ -11483,7 +11483,7 @@
         "faucets": [],
         "nativeCurrency": {
             "name": "CRFI",
-            "symbol": "◈",
+            "symbol": "\u25c8",
             "decimals": 18
         },
         "infoURL": "https://crystaleum.org",
@@ -11528,14 +11528,14 @@
         ]
     },
     {
-        "name": "Arbitrum Görli",
-        "title": "Arbitrum Görli Rollup Testnet",
+        "name": "Arbitrum G\u00f6rli",
+        "title": "Arbitrum G\u00f6rli Rollup Testnet",
         "chainId": 421613,
         "shortName": "arb-goerli",
         "chain": "ETH",
         "networkId": 421613,
         "nativeCurrency": {
-            "name": "Arbitrum Görli Ether",
+            "name": "Arbitrum G\u00f6rli Ether",
             "symbol": "AGOR",
             "decimals": 18
         },
@@ -11546,7 +11546,7 @@
         "infoURL": "https://arbitrum.io/",
         "explorers": [
             {
-                "name": "Arbitrum Görli Rollup Explorer",
+                "name": "Arbitrum G\u00f6rli Rollup Explorer",
                 "url": "https://goerli-rollup-explorer.arbitrum.io",
                 "standard": "EIP3091"
             }
@@ -12108,7 +12108,7 @@
         "faucets": [],
         "nativeCurrency": {
             "name": "PHI",
-            "symbol": "Φ",
+            "symbol": "\u03a6",
             "decimals": 18
         },
         "infoURL": "https://phi.network",
@@ -14768,7 +14768,7 @@
         "faucets": [],
         "nativeCurrency": {
             "name": "Arev",
-            "symbol": "ARÉV",
+            "symbol": "AR\u00c9V",
             "decimals": 18
         },
         "infoURL": "",
@@ -25399,7 +25399,7 @@
         "faucets": [],
         "nativeCurrency": {
             "name": "VinuChain",
-            "symbol": "VС",
+            "symbol": "V\u0421",
             "decimals": 18
         },
         "infoURL": "https://vitainu.org",
@@ -25425,7 +25425,7 @@
         "faucets": [],
         "nativeCurrency": {
             "name": "VinuChain",
-            "symbol": "VС",
+            "symbol": "V\u0421",
             "decimals": 18
         },
         "infoURL": "https://vitainu.org",
@@ -40538,7 +40538,7 @@
             "symbol": "ETH",
             "decimals": 18
         },
-        "infoURL": "https://campaign-1.gitbook.io/camp-technical-docså",
+        "infoURL": "https://campaign-1.gitbook.io/camp-technical-docs\u00e5",
         "shortName": "camp",
         "chainId": 90354,
         "networkId": 90354,
@@ -63477,64 +63477,127 @@
         "nativeCurrency": {
             "name": "MCN",
             "symbol": "MCN",
-                "decimals": 18
-    },
-    "rpc": [
-        "https://rpc1.mcnsmartchain.com",
-        "https://rpc2.mcnsmartchain.com",
-        "https://rpc3.mcnsmartchain.com"
-    ],
-    "faucets": [],
-    "infoURL": "https://www.mcnsmartchain.com",
-    "explorers": [
-        {
-            "name": "MCN Scan",
-            "url": "https://block.mcnsmartchain.com",
-            "standard": "EIP3091"
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc1.mcnsmartchain.com",
+            "https://rpc2.mcnsmartchain.com",
+            "https://rpc3.mcnsmartchain.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://www.mcnsmartchain.com",
+        "explorers": [
+            {
+                "name": "MCN Scan",
+                "url": "https://block.mcnsmartchain.com",
+                "standard": "EIP3091"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg",
+            "ic_chain_unselect": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg",
+            "ic_chain_unselect_dark": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg",
+            "color_chain_bg": "0x99FF00",
+            "color_chain_text": "0x000000",
+            "ic_home_logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg"
         }
-    ],
-    "app_resource": {
-        "ic_chain_select": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg",
-        "ic_chain_unselect": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg",
-        "ic_chain_unselect_dark": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg",
-        "color_chain_bg": "0x99FF00",
-        "color_chain_text": "0x000000",
-        "ic_home_logo": "https://photos.pinksale.finance/file/pinksale-logo-upload/1768216345304-4f17a2cc73fa22989e27cd2b22ec94bd.jpg"
-    }
-},
+    },
     {
-  "name": "AOU Chain",
-  "chainId": 2236,
-  "shortName": "aou",
-  "chain": "AOU",
-  "network": "testnet",
-  "networkId": 2236,
-  "nativeCurrency": {
-    "name": "AOU",
-    "symbol": "AOU",
-    "decimals": 18
-  },
-  "rpc": [
-    "https://testnet-rpc.aouscan.com"
-  ],
-  "faucets": [],
-  "infoURL": "https://www.aoulink.io",
-  "explorers": [
+        "name": "AOU Chain",
+        "chainId": 2236,
+        "shortName": "aou",
+        "chain": "AOU",
+        "network": "testnet",
+        "networkId": 2236,
+        "nativeCurrency": {
+            "name": "AOU",
+            "symbol": "AOU",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://testnet-rpc.aouscan.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://www.aoulink.io",
+        "explorers": [
+            {
+                "name": "AOU Scan Testnet",
+                "url": "https://testnet.aouscan.com",
+                "standard": "EIP3091"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://www.aoulink.io/aou.png",
+            "ic_chain_unselect": "https://www.aoulink.io/aou.png",
+            "ic_chain_unselect_dark": "https://www.aoulink.io/aou.png",
+            "color_chain_bg": "0x000000",
+            "color_chain_text": "0xFFFFFF",
+            "ic_home_logo": "https://www.aoulink.io/aou.png"
+        }
+    },
     {
-      "name": "AOU Scan Testnet",
-      "url": "https://testnet.aouscan.com",
-      "standard": "EIP3091"
+        "name": "Banteng Chain Testnet",
+        "chainId": 993,
+        "shortName": "banteng",
+        "chain": "BTG",
+        "network": "testnet",
+        "networkId": 993,
+        "nativeCurrency": {
+            "name": "Banteng Coin",
+            "symbol": "tBTG",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc1.banteng.asia",
+            "https://rpc2.banteng.asia",
+            "https://rpc3.banteng.asia"
+        ],
+        "faucets": [],
+        "infoURL": "https://banteng.asia",
+        "explorers": [
+            {
+                "name": "Banteng Explorer",
+                "url": "https://explorer.banteng.asia",
+                "standard": "EIP3091"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://gateway.pinata.cloud/ipfs/bafkreifgth3i5kewkdm4hvxtjqtuifyswtghcizrcqxd34kyjfgqfrgn7e",
+            "ic_chain_unselect": "https://banteng.asia/logo-gray.png",
+            "color_chain_bg": "0xd32f2f"
+        }
+    },
+    {
+        "name": "Banteng Chain",
+        "chainId": 991,
+        "shortName": "banteng",
+        "chain": "BTG",
+        "network": "mainnet",
+        "networkId": 991,
+        "nativeCurrency": {
+            "name": "Banteng Coin",
+            "symbol": "BTG",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.banteng.asia"
+        ],
+        "faucets": [],
+        "infoURL": "https://banteng.asia",
+        "explorers": [
+            {
+                "name": "Banteng Explorer",
+                "url": "https://explorer.banteng.asia",
+                "standard": "EIP3091"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://raw.githubusercontent.com/duekz008/networklist-org/main/logos/banteng-red.png",
+            "ic_chain_unselect": "https://raw.githubusercontent.com/duekz008/networklist-org/main/logos/banteng-red.png",
+            "ic_chain_unselect_dark": "https://raw.githubusercontent.com/duekz008/networklist-org/main/logos/banteng-red.png",
+            "color_chain_bg": "0x000000",
+            "color_chain_text": "0xFFFFFF",
+            "ic_home_logo": "https://raw.githubusercontent.com/duekz008/networklist-org/main/logos/banteng-red.png"
+        }
     }
-  ],
-  "app_resource": {
-    "ic_chain_select": "https://www.aoulink.io/aou.png",
-    "ic_chain_unselect": "https://www.aoulink.io/aou.png",
-    "ic_chain_unselect_dark": "https://www.aoulink.io/aou.png",
-    "color_chain_bg": "0x000000",
-    "color_chain_text": "0xFFFFFF",
-    "ic_home_logo": "https://www.aoulink.io/aou.png"
-  }
-}
-
 ]
-
