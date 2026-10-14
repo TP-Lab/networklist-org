@@ -63534,7 +63534,42 @@
     "color_chain_text": "0xFFFFFF",
     "ic_home_logo": "https://www.aoulink.io/aou.png"
   }
-}
+},
+    {
+        "name": "Midas Testnet",
+        "chainId": 64327,
+        "shortName": "midas-testnet",
+        "chain": "MIDS",
+        "network": "testnet",
+        "networkId": 64327,
+        "nativeCurrency": {
+            "name": "Midas",
+            "symbol": "MIDS",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.testnet.onmidas.xyz"
+        ],
+        "faucets": [
+            "https://onmidas.xyz/developers#faucet"
+        ],
+        "infoURL": "https://onmidas.xyz",
+        "explorers": [
+            {
+                "name": "Midas Explorer",
+                "url": "https://explorer.testnet.onmidas.xyz",
+                "standard": "EIP3091"
+            }
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://onmidas.xyz/brand/png/midas-chain-200.png",
+            "ic_chain_unselect": "https://onmidas.xyz/brand/png/midas-chain-200-gray.png",
+            "ic_chain_unselect_dark": "https://onmidas.xyz/brand/png/midas-chain-200-gray.png",
+            "color_chain_bg": "0x0B0A08",
+            "color_chain_text": "0xE8B84B",
+            "ic_home_logo": "https://onmidas.xyz/brand/png/midas-chain-512.png"
+        }
+    }
 
 ]
 
