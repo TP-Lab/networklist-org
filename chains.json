@@ -63534,7 +63534,31 @@
     "color_chain_text": "0xFFFFFF",
     "ic_home_logo": "https://www.aoulink.io/aou.png"
   }
-}
-
+},
+    {
+        "name": "GGCHAIN Mainnet",
+        "chainId": 2121217,
+        "shortName": "gg",
+        "chain": "GGCHAIN",
+        "network": "mainnet",
+        "networkId": 2121217,
+        "nativeCurrency": {
+            "name": "GG",
+            "symbol": "GG",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.gghyper.net"
+        ],
+        "faucets": [],
+        "explorers": [
+            {
+                "name": "GGCHAIN Explorer",
+                "url": "https://explorer.gghyper.net",
+                "standard": "EIP3091"
+            }
+        ],
+        "infoURL": "https://gghyper.net"
+    }
 ]
 
