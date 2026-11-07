@@ -63534,6 +63534,38 @@
     "color_chain_text": "0xFFFFFF",
     "ic_home_logo": "https://www.aoulink.io/aou.png"
   }
+},
+{
+  "name": "NSTChain",
+  "chainId": 2511,
+  "shortName": "nst",
+  "chain": "nstchain",
+  "network": "mainnet",
+  "networkId": 2511,
+  "nativeCurrency": {
+    "name": "NST",
+    "symbol": "nst",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.nstchain.com"
+  ],
+  "faucets": [],
+  "infoURL": "nstchain.com",
+  "explorers": [
+    {
+      "name": "Nstchain",
+      "url": "https://explorer.nstchain.com"
+    }
+  ],
+  "app_resource": {
+    "ic_chain_select": "https://raw.githubusercontent.com/alicenst/chain-assets/main/chain-selected.png",
+    "ic_chain_unselect": "https://raw.githubusercontent.com/alicenst/chain-assets/main/chain-unselected.png",
+    "ic_chain_unselect_dark": "https://raw.githubusercontent.com/alicenst/chain-assets/main/chain-unselected-dark.png",
+    "color_chain_bg": "5A2D82",
+    "color_chain_text": "0xFFFFFF",
+    "ic_home_logo": "https://raw.githubusercontent.com/alicenst/chain-assets/main/chain-home.png"
+  }
 }
 
 ]
